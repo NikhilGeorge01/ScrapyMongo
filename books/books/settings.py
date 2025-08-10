@@ -90,3 +90,5 @@ MONGO_DATABASE = "books_db"
 ITEM_PIPELINES = {
     "books.pipelines.MongoPipeline": 300,
 }
+LOG_LEVEL = "WARNING"
+LOG_FILE = "book_scraper.log"
