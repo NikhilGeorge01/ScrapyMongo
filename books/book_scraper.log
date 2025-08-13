@@ -2063,3 +2063,2612 @@ ModuleNotFoundError: No module named 'scrapy_user_agents'
 {'price': '£25.01',
  'title': 'Cometh the Hour (The Clifton Chronicles #6)',
  'url': 'cometh-the-hour-the-clifton-chronicles-6_681/index.html'}
+2025-08-11 21:41:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£22.13',
+ 'title': 'Code Name Verity (Code Name Verity #1)',
+ 'url': 'code-name-verity-code-name-verity-1_680/index.html'}
+{'price': '£22.13',
+ 'title': 'Code Name Verity (Code Name Verity #1)',
+ 'url': 'code-name-verity-code-name-verity-1_680/index.html'}
+2025-08-11 21:41:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£44.14',
+ 'title': 'Clockwork Angel (The Infernal Devices #1)',
+ 'url': 'clockwork-angel-the-infernal-devices-1_679/index.html'}
+{'price': '£44.14',
+ 'title': 'Clockwork Angel (The Infernal Devices #1)',
+ 'url': 'clockwork-angel-the-infernal-devices-1_679/index.html'}
+2025-08-11 21:41:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£56.02',
+ 'title': 'City of Glass (The Mortal Instruments #3)',
+ 'url': 'city-of-glass-the-mortal-instruments-3_678/index.html'}
+{'price': '£56.02',
+ 'title': 'City of Glass (The Mortal Instruments #3)',
+ 'url': 'city-of-glass-the-mortal-instruments-3_678/index.html'}
+2025-08-11 21:41:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£11.23',
+ 'title': 'City of Fallen Angels (The Mortal Instruments #4)',
+ 'url': 'city-of-fallen-angels-the-mortal-instruments-4_677/index.html'}
+{'price': '£11.23',
+ 'title': 'City of Fallen Angels (The Mortal Instruments #4)',
+ 'url': 'city-of-fallen-angels-the-mortal-instruments-4_677/index.html'}
+2025-08-11 21:41:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£43.28',
+ 'title': 'City of Bones (The Mortal Instruments #1)',
+ 'url': 'city-of-bones-the-mortal-instruments-1_676/index.html'}
+{'price': '£43.28',
+ 'title': 'City of Bones (The Mortal Instruments #1)',
+ 'url': 'city-of-bones-the-mortal-instruments-1_676/index.html'}
+2025-08-11 21:41:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£47.27',
+ 'title': 'City of Ashes (The Mortal Instruments #2)',
+ 'url': 'city-of-ashes-the-mortal-instruments-2_675/index.html'}
+{'price': '£47.27',
+ 'title': 'City of Ashes (The Mortal Instruments #2)',
+ 'url': 'city-of-ashes-the-mortal-instruments-2_675/index.html'}
+2025-08-11 21:41:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£20.29', 'title': 'Cell', 'url': 'cell_674/index.html'}
+{'price': '£20.29', 'title': 'Cell', 'url': 'cell_674/index.html'}
+2025-08-11 21:41:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£50.83',
+ 'title': 'Catching Jordan (Hundred Oaks)',
+ 'url': 'catching-jordan-hundred-oaks_673/index.html'}
+{'price': '£50.83',
+ 'title': 'Catching Jordan (Hundred Oaks)',
+ 'url': 'catching-jordan-hundred-oaks_673/index.html'}
+2025-08-11 21:41:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£31.85',
+ 'title': 'Carry On, Warrior: Thoughts on Life Unarmed',
+ 'url': 'carry-on-warrior-thoughts-on-life-unarmed_672/index.html'}
+{'price': '£31.85',
+ 'title': 'Carry On, Warrior: Thoughts on Life Unarmed',
+ 'url': 'carry-on-warrior-thoughts-on-life-unarmed_672/index.html'}
+2025-08-11 21:41:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£46.23', 'title': 'Carrie', 'url': 'carrie_671/index.html'}
+{'price': '£46.23', 'title': 'Carrie', 'url': 'carrie_671/index.html'}
+2025-08-11 21:41:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£37.80',
+ 'title': 'Buying In: The Secret Dialogue Between What We Buy and Who We Are',
+ 'url': 'buying-in-the-secret-dialogue-between-what-we-buy-and-who-we-are_670/index.html'}
+{'price': '£37.80',
+ 'title': 'Buying In: The Secret Dialogue Between What We Buy and Who We Are',
+ 'url': 'buying-in-the-secret-dialogue-between-what-we-buy-and-who-we-are_670/index.html'}
+2025-08-11 21:41:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£49.32',
+ 'title': 'Brain on Fire: My Month of Madness',
+ 'url': 'brain-on-fire-my-month-of-madness_669/index.html'}
+{'price': '£49.32',
+ 'title': 'Brain on Fire: My Month of Madness',
+ 'url': 'brain-on-fire-my-month-of-madness_669/index.html'}
+2025-08-11 21:41:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£32.01',
+ 'title': 'Batman: Europa',
+ 'url': 'batman-europa_668/index.html'}
+{'price': '£32.01',
+ 'title': 'Batman: Europa',
+ 'url': 'batman-europa_668/index.html'}
+2025-08-11 21:41:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£28.01',
+ 'title': 'Barefoot Contessa Back to Basics',
+ 'url': 'barefoot-contessa-back-to-basics_667/index.html'}
+{'price': '£28.01',
+ 'title': 'Barefoot Contessa Back to Basics',
+ 'url': 'barefoot-contessa-back-to-basics_667/index.html'}
+2025-08-11 21:41:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£50.62',
+ 'title': "Barefoot Contessa at Home: Everyday Recipes You'll Make Over and "
+          'Over Again',
+ 'url': 'barefoot-contessa-at-home-everyday-recipes-youll-make-over-and-over-again_666/index.html'}
+{'price': '£50.62',
+ 'title': "Barefoot Contessa at Home: Everyday Recipes You'll Make Over and "
+          'Over Again',
+ 'url': 'barefoot-contessa-at-home-everyday-recipes-youll-make-over-and-over-again_666/index.html'}
+2025-08-11 21:41:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£17.03',
+ 'title': 'Balloon Animals',
+ 'url': 'balloon-animals_665/index.html'}
+{'price': '£17.03',
+ 'title': 'Balloon Animals',
+ 'url': 'balloon-animals_665/index.html'}
+2025-08-11 21:41:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£48.80',
+ 'title': 'Art Ops Vol. 1',
+ 'url': 'art-ops-vol-1_664/index.html'}
+{'price': '£48.80',
+ 'title': 'Art Ops Vol. 1',
+ 'url': 'art-ops-vol-1_664/index.html'}
+2025-08-11 21:41:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£58.14',
+ 'title': 'Aristotle and Dante Discover the Secrets of the Universe (Aristotle '
+          'and Dante Discover the Secrets of the Universe #1)',
+ 'url': 'aristotle-and-dante-discover-the-secrets-of-the-universe-aristotle-and-dante-discover-the-secrets-of-the-universe-1_663/index.html'}
+{'price': '£58.14',
+ 'title': 'Aristotle and Dante Discover the Secrets of the Universe (Aristotle '
+          'and Dante Discover the Secrets of the Universe #1)',
+ 'url': 'aristotle-and-dante-discover-the-secrets-of-the-universe-aristotle-and-dante-discover-the-secrets-of-the-universe-1_663/index.html'}
+2025-08-11 21:41:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£34.20',
+ 'title': 'Angels Walking (Angels Walking #1)',
+ 'url': 'angels-walking-angels-walking-1_662/index.html'}
+{'price': '£34.20',
+ 'title': 'Angels Walking (Angels Walking #1)',
+ 'url': 'angels-walking-angels-walking-1_662/index.html'}
+2025-08-11 21:41:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£51.48',
+ 'title': 'Angels & Demons (Robert Langdon #1)',
+ 'url': 'angels-demons-robert-langdon-1_661/index.html'}
+{'price': '£51.48',
+ 'title': 'Angels & Demons (Robert Langdon #1)',
+ 'url': 'angels-demons-robert-langdon-1_661/index.html'}
+2025-08-11 21:41:51 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£29.87',
+ 'title': 'All the Light We Cannot See',
+ 'url': 'all-the-light-we-cannot-see_660/index.html'}
+{'price': '£29.87',
+ 'title': 'All the Light We Cannot See',
+ 'url': 'all-the-light-we-cannot-see_660/index.html'}
+2025-08-11 21:41:51 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£10.90',
+ 'title': 'Adulthood Is a Myth: A "Sarah\'s Scribbles" Collection',
+ 'url': 'adulthood-is-a-myth-a-sarahs-scribbles-collection_659/index.html'}
+{'price': '£10.90',
+ 'title': 'Adulthood Is a Myth: A "Sarah\'s Scribbles" Collection',
+ 'url': 'adulthood-is-a-myth-a-sarahs-scribbles-collection_659/index.html'}
+2025-08-11 21:41:51 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£56.37',
+ 'title': 'Abstract City',
+ 'url': 'abstract-city_658/index.html'}
+{'price': '£56.37',
+ 'title': 'Abstract City',
+ 'url': 'abstract-city_658/index.html'}
+2025-08-11 21:41:51 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£48.35',
+ 'title': 'A Time of Torment (Charlie Parker #14)',
+ 'url': 'a-time-of-torment-charlie-parker-14_657/index.html'}
+{'price': '£48.35',
+ 'title': 'A Time of Torment (Charlie Parker #14)',
+ 'url': 'a-time-of-torment-charlie-parker-14_657/index.html'}
+2025-08-11 21:41:51 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£16.73',
+ 'title': 'A Study in Scarlet (Sherlock Holmes #1)',
+ 'url': 'a-study-in-scarlet-sherlock-holmes-1_656/index.html'}
+{'price': '£16.73',
+ 'title': 'A Study in Scarlet (Sherlock Holmes #1)',
+ 'url': 'a-study-in-scarlet-sherlock-holmes-1_656/index.html'}
+2025-08-11 21:41:51 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£56.48',
+ 'title': 'A Series of Catastrophes and Miracles: A True Story of Love, '
+          'Science, and Cancer',
+ 'url': 'a-series-of-catastrophes-and-miracles-a-true-story-of-love-science-and-cancer_655/index.html'}
+{'price': '£56.48',
+ 'title': 'A Series of Catastrophes and Miracles: A True Story of Love, '
+          'Science, and Cancer',
+ 'url': 'a-series-of-catastrophes-and-miracles-a-true-story-of-love-science-and-cancer_655/index.html'}
+2025-08-11 21:41:51 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£40.79',
+ 'title': "A People's History of the United States",
+ 'url': 'a-peoples-history-of-the-united-states_654/index.html'}
+{'price': '£40.79',
+ 'title': "A People's History of the United States",
+ 'url': 'a-peoples-history-of-the-united-states_654/index.html'}
+2025-08-11 21:41:51 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£39.72',
+ 'title': 'A Man Called Ove',
+ 'url': 'a-man-called-ove_653/index.html'}
+{'price': '£39.72',
+ 'title': 'A Man Called Ove',
+ 'url': 'a-man-called-ove_653/index.html'}
+2025-08-11 21:41:51 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£14.58',
+ 'title': 'A Distant Mirror: The Calamitous 14th Century',
+ 'url': 'a-distant-mirror-the-calamitous-14th-century_652/index.html'}
+{'price': '£14.58',
+ 'title': 'A Distant Mirror: The Calamitous 14th Century',
+ 'url': 'a-distant-mirror-the-calamitous-14th-century_652/index.html'}
+2025-08-11 21:41:51 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£55.51',
+ 'title': 'A Brush of Wings (Angels Walking #3)',
+ 'url': 'a-brush-of-wings-angels-walking-3_651/index.html'}
+{'price': '£55.51',
+ 'title': 'A Brush of Wings (Angels Walking #3)',
+ 'url': 'a-brush-of-wings-angels-walking-3_651/index.html'}
+2025-08-11 21:41:51 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£21.80',
+ 'title': '1491: New Revelations of the Americas Before Columbus',
+ 'url': '1491-new-revelations-of-the-americas-before-columbus_650/index.html'}
+{'price': '£21.80',
+ 'title': '1491: New Revelations of the Americas Before Columbus',
+ 'url': '1491-new-revelations-of-the-americas-before-columbus_650/index.html'}
+2025-08-11 21:41:51 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£13.33',
+ 'title': 'The Three Searches, Meaning, and the Story',
+ 'url': 'the-three-searches-meaning-and-the-story_649/index.html'}
+{'price': '£13.33',
+ 'title': 'The Three Searches, Meaning, and the Story',
+ 'url': 'the-three-searches-meaning-and-the-story_649/index.html'}
+2025-08-11 21:41:51 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£38.73',
+ 'title': 'Searching for Meaning in Gailana',
+ 'url': 'searching-for-meaning-in-gailana_648/index.html'}
+{'price': '£38.73',
+ 'title': 'Searching for Meaning in Gailana',
+ 'url': 'searching-for-meaning-in-gailana_648/index.html'}
+2025-08-11 21:41:51 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£37.86', 'title': 'Rook', 'url': 'rook_647/index.html'}
+{'price': '£37.86', 'title': 'Rook', 'url': 'rook_647/index.html'}
+2025-08-11 21:41:51 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£11.53',
+ 'title': 'My Kitchen Year: 136 Recipes That Saved My Life',
+ 'url': 'my-kitchen-year-136-recipes-that-saved-my-life_646/index.html'}
+{'price': '£11.53',
+ 'title': 'My Kitchen Year: 136 Recipes That Saved My Life',
+ 'url': 'my-kitchen-year-136-recipes-that-saved-my-life_646/index.html'}
+2025-08-11 21:41:51 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£27.06',
+ 'title': '13 Hours: The Inside Account of What Really Happened In Benghazi',
+ 'url': '13-hours-the-inside-account-of-what-really-happened-in-benghazi_645/index.html'}
+{'price': '£27.06',
+ 'title': '13 Hours: The Inside Account of What Really Happened In Benghazi',
+ 'url': '13-hours-the-inside-account-of-what-really-happened-in-benghazi_645/index.html'}
+2025-08-11 21:41:51 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£13.86',
+ 'title': "Will You Won't You Want Me?",
+ 'url': 'will-you-wont-you-want-me_644/index.html'}
+{'price': '£13.86',
+ 'title': "Will You Won't You Want Me?",
+ 'url': 'will-you-wont-you-want-me_644/index.html'}
+2025-08-11 21:41:51 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£37.55',
+ 'title': 'Tipping Point for Planet Earth: How Close Are We to the Edge?',
+ 'url': 'tipping-point-for-planet-earth-how-close-are-we-to-the-edge_643/index.html'}
+{'price': '£37.55',
+ 'title': 'Tipping Point for Planet Earth: How Close Are We to the Edge?',
+ 'url': 'tipping-point-for-planet-earth-how-close-are-we-to-the-edge_643/index.html'}
+2025-08-11 21:41:51 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£32.30',
+ 'title': 'The Star-Touched Queen',
+ 'url': 'the-star-touched-queen_642/index.html'}
+{'price': '£32.30',
+ 'title': 'The Star-Touched Queen',
+ 'url': 'the-star-touched-queen_642/index.html'}
+2025-08-11 21:41:51 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£46.29',
+ 'title': 'The Silent Sister (Riley MacPherson #1)',
+ 'url': 'the-silent-sister-riley-macpherson-1_641/index.html'}
+{'price': '£46.29',
+ 'title': 'The Silent Sister (Riley MacPherson #1)',
+ 'url': 'the-silent-sister-riley-macpherson-1_641/index.html'}
+2025-08-11 21:41:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£26.20',
+ 'title': 'The Midnight Watch: A Novel of the Titanic and the Californian',
+ 'url': 'the-midnight-watch-a-novel-of-the-titanic-and-the-californian_640/index.html'}
+{'price': '£26.20',
+ 'title': 'The Midnight Watch: A Novel of the Titanic and the Californian',
+ 'url': 'the-midnight-watch-a-novel-of-the-titanic-and-the-californian_640/index.html'}
+2025-08-11 21:41:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£33.26',
+ 'title': 'The Lonely City: Adventures in the Art of Being Alone',
+ 'url': 'the-lonely-city-adventures-in-the-art-of-being-alone_639/index.html'}
+{'price': '£33.26',
+ 'title': 'The Lonely City: Adventures in the Art of Being Alone',
+ 'url': 'the-lonely-city-adventures-in-the-art-of-being-alone_639/index.html'}
+2025-08-11 21:41:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£59.15',
+ 'title': 'The Gray Rhino: How to Recognize and Act on the Obvious Dangers We '
+          'Ignore',
+ 'url': 'the-gray-rhino-how-to-recognize-and-act-on-the-obvious-dangers-we-ignore_638/index.html'}
+{'price': '£59.15',
+ 'title': 'The Gray Rhino: How to Recognize and Act on the Obvious Dangers We '
+          'Ignore',
+ 'url': 'the-gray-rhino-how-to-recognize-and-act-on-the-obvious-dangers-we-ignore_638/index.html'}
+2025-08-11 21:41:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£39.43',
+ 'title': 'The Golden Condom: And Other Essays on Love Lost and Found',
+ 'url': 'the-golden-condom-and-other-essays-on-love-lost-and-found_637/index.html'}
+{'price': '£39.43',
+ 'title': 'The Golden Condom: And Other Essays on Love Lost and Found',
+ 'url': 'the-golden-condom-and-other-essays-on-love-lost-and-found_637/index.html'}
+2025-08-11 21:41:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£14.44',
+ 'title': 'The Epidemic (The Program 0.6)',
+ 'url': 'the-epidemic-the-program-06_636/index.html'}
+{'price': '£14.44',
+ 'title': 'The Epidemic (The Program 0.6)',
+ 'url': 'the-epidemic-the-program-06_636/index.html'}
+2025-08-11 21:41:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£56.54',
+ 'title': 'The Dinner Party',
+ 'url': 'the-dinner-party_635/index.html'}
+{'price': '£56.54',
+ 'title': 'The Dinner Party',
+ 'url': 'the-dinner-party_635/index.html'}
+2025-08-11 21:41:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£59.90',
+ 'title': 'The Diary of a Young Girl',
+ 'url': 'the-diary-of-a-young-girl_634/index.html'}
+{'price': '£59.90',
+ 'title': 'The Diary of a Young Girl',
+ 'url': 'the-diary-of-a-young-girl_634/index.html'}
+2025-08-11 21:41:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£11.88',
+ 'title': 'The Children',
+ 'url': 'the-children_633/index.html'}
+{'price': '£11.88',
+ 'title': 'The Children',
+ 'url': 'the-children_633/index.html'}
+2025-08-11 21:41:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£48.05',
+ 'title': 'Stars Above (The Lunar Chronicles #4.5)',
+ 'url': 'stars-above-the-lunar-chronicles-45_632/index.html'}
+{'price': '£48.05',
+ 'title': 'Stars Above (The Lunar Chronicles #4.5)',
+ 'url': 'stars-above-the-lunar-chronicles-45_632/index.html'}
+2025-08-11 21:41:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£21.21',
+ 'title': 'Snatched: How A Drug Queen Went Undercover for the DEA and Was '
+          'Kidnapped By Colombian Guerillas',
+ 'url': 'snatched-how-a-drug-queen-went-undercover-for-the-dea-and-was-kidnapped-by-colombian-guerillas_631/index.html'}
+{'price': '£21.21',
+ 'title': 'Snatched: How A Drug Queen Went Undercover for the DEA and Was '
+          'Kidnapped By Colombian Guerillas',
+ 'url': 'snatched-how-a-drug-queen-went-undercover-for-the-dea-and-was-kidnapped-by-colombian-guerillas_631/index.html'}
+2025-08-11 21:41:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£49.67',
+ 'title': 'Raspberry Pi Electronics Projects for the Evil Genius',
+ 'url': 'raspberry-pi-electronics-projects-for-the-evil-genius_630/index.html'}
+{'price': '£49.67',
+ 'title': 'Raspberry Pi Electronics Projects for the Evil Genius',
+ 'url': 'raspberry-pi-electronics-projects-for-the-evil-genius_630/index.html'}
+2025-08-11 21:41:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£43.14',
+ 'title': 'Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two',
+ 'url': 'quench-your-own-thirst-business-lessons-learned-over-a-beer-or-two_629/index.html'}
+{'price': '£43.14',
+ 'title': 'Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two',
+ 'url': 'quench-your-own-thirst-business-lessons-learned-over-a-beer-or-two_629/index.html'}
+2025-08-11 21:41:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£36.97',
+ 'title': 'Psycho: Sanitarium (Psycho #1.5)',
+ 'url': 'psycho-sanitarium-psycho-15_628/index.html'}
+{'price': '£36.97',
+ 'title': 'Psycho: Sanitarium (Psycho #1.5)',
+ 'url': 'psycho-sanitarium-psycho-15_628/index.html'}
+2025-08-11 21:41:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£26.80',
+ 'title': 'Poisonous (Max Revere Novels #3)',
+ 'url': 'poisonous-max-revere-novels-3_627/index.html'}
+{'price': '£26.80',
+ 'title': 'Poisonous (Max Revere Novels #3)',
+ 'url': 'poisonous-max-revere-novels-3_627/index.html'}
+2025-08-11 21:41:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£15.71',
+ 'title': 'One with You (Crossfire #5)',
+ 'url': 'one-with-you-crossfire-5_626/index.html'}
+{'price': '£15.71',
+ 'title': 'One with You (Crossfire #5)',
+ 'url': 'one-with-you-crossfire-5_626/index.html'}
+2025-08-11 21:41:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£54.65',
+ 'title': 'No Love Allowed (Dodge Cove #1)',
+ 'url': 'no-love-allowed-dodge-cove-1_625/index.html'}
+{'price': '£54.65',
+ 'title': 'No Love Allowed (Dodge Cove #1)',
+ 'url': 'no-love-allowed-dodge-cove-1_625/index.html'}
+2025-08-11 21:41:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£54.36',
+ 'title': 'Murder at the 42nd Street Library (Raymond Ambler #1)',
+ 'url': 'murder-at-the-42nd-street-library-raymond-ambler-1_624/index.html'}
+{'price': '£54.36',
+ 'title': 'Murder at the 42nd Street Library (Raymond Ambler #1)',
+ 'url': 'murder-at-the-42nd-street-library-raymond-ambler-1_624/index.html'}
+2025-08-11 21:41:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£35.28', 'title': 'Most Wanted', 'url': 'most-wanted_623/index.html'}
+{'price': '£35.28', 'title': 'Most Wanted', 'url': 'most-wanted_623/index.html'}
+2025-08-11 21:41:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£20.55',
+ 'title': 'Love, Lies and Spies',
+ 'url': 'love-lies-and-spies_622/index.html'}
+{'price': '£20.55',
+ 'title': 'Love, Lies and Spies',
+ 'url': 'love-lies-and-spies_622/index.html'}
+2025-08-11 21:41:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£58.32',
+ 'title': 'How to Speak Golf: An Illustrated Guide to Links Lingo',
+ 'url': 'how-to-speak-golf-an-illustrated-guide-to-links-lingo_621/index.html'}
+{'price': '£58.32',
+ 'title': 'How to Speak Golf: An Illustrated Guide to Links Lingo',
+ 'url': 'how-to-speak-golf-an-illustrated-guide-to-links-lingo_621/index.html'}
+2025-08-11 21:41:59 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£11.84',
+ 'title': 'Hide Away (Eve Duncan #20)',
+ 'url': 'hide-away-eve-duncan-20_620/index.html'}
+{'price': '£11.84',
+ 'title': 'Hide Away (Eve Duncan #20)',
+ 'url': 'hide-away-eve-duncan-20_620/index.html'}
+2025-08-11 21:41:59 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£41.46',
+ 'title': 'Furiously Happy: A Funny Book About Horrible Things',
+ 'url': 'furiously-happy-a-funny-book-about-horrible-things_619/index.html'}
+{'price': '£41.46',
+ 'title': 'Furiously Happy: A Funny Book About Horrible Things',
+ 'url': 'furiously-happy-a-funny-book-about-horrible-things_619/index.html'}
+2025-08-11 21:41:59 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£20.10',
+ 'title': 'Everyday Italian: 125 Simple and Delicious Recipes',
+ 'url': 'everyday-italian-125-simple-and-delicious-recipes_618/index.html'}
+{'price': '£20.10',
+ 'title': 'Everyday Italian: 125 Simple and Delicious Recipes',
+ 'url': 'everyday-italian-125-simple-and-delicious-recipes_618/index.html'}
+2025-08-11 21:41:59 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£56.86',
+ 'title': "Equal Is Unfair: America's Misguided Fight Against Income "
+          'Inequality',
+ 'url': 'equal-is-unfair-americas-misguided-fight-against-income-inequality_617/index.html'}
+{'price': '£56.86',
+ 'title': "Equal Is Unfair: America's Misguided Fight Against Income "
+          'Inequality',
+ 'url': 'equal-is-unfair-americas-misguided-fight-against-income-inequality_617/index.html'}
+2025-08-11 21:41:59 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£56.51',
+ 'title': 'Eleanor & Park',
+ 'url': 'eleanor-park_616/index.html'}
+{'price': '£56.51',
+ 'title': 'Eleanor & Park',
+ 'url': 'eleanor-park_616/index.html'}
+2025-08-11 21:41:59 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£40.83',
+ 'title': 'Dirty (Dive Bar #1)',
+ 'url': 'dirty-dive-bar-1_615/index.html'}
+{'price': '£40.83',
+ 'title': 'Dirty (Dive Bar #1)',
+ 'url': 'dirty-dive-bar-1_615/index.html'}
+2025-08-11 21:41:59 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£48.64',
+ 'title': 'Can You Keep a Secret? (Fear Street Relaunch #4)',
+ 'url': 'can-you-keep-a-secret-fear-street-relaunch-4_614/index.html'}
+{'price': '£48.64',
+ 'title': 'Can You Keep a Secret? (Fear Street Relaunch #4)',
+ 'url': 'can-you-keep-a-secret-fear-street-relaunch-4_614/index.html'}
+2025-08-11 21:41:59 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£59.48',
+ 'title': 'Boar Island (Anna Pigeon #19)',
+ 'url': 'boar-island-anna-pigeon-19_613/index.html'}
+{'price': '£59.48',
+ 'title': 'Boar Island (Anna Pigeon #19)',
+ 'url': 'boar-island-anna-pigeon-19_613/index.html'}
+2025-08-11 21:41:59 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£39.01',
+ 'title': 'A Paris Apartment',
+ 'url': 'a-paris-apartment_612/index.html'}
+{'price': '£39.01',
+ 'title': 'A Paris Apartment',
+ 'url': 'a-paris-apartment_612/index.html'}
+2025-08-11 21:41:59 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£38.77',
+ 'title': 'A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, '
+          'and More Topped with Ice Cream, Gelato, Frozen Custard, and More',
+ 'url': 'a-la-mode-120-recipes-in-60-pairings-pies-tarts-cakes-crisps-and-more-topped-with-ice-cream-gelato-frozen-custard-and-more_611/index.html'}
+{'price': '£38.77',
+ 'title': 'A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, '
+          'and More Topped with Ice Cream, Gelato, Frozen Custard, and More',
+ 'url': 'a-la-mode-120-recipes-in-60-pairings-pies-tarts-cakes-crisps-and-more-topped-with-ice-cream-gelato-frozen-custard-and-more_611/index.html'}
+2025-08-11 21:41:59 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£48.39',
+ 'title': 'Troublemaker: Surviving Hollywood and Scientology',
+ 'url': 'troublemaker-surviving-hollywood-and-scientology_610/index.html'}
+{'price': '£48.39',
+ 'title': 'Troublemaker: Surviving Hollywood and Scientology',
+ 'url': 'troublemaker-surviving-hollywood-and-scientology_610/index.html'}
+2025-08-11 21:41:59 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£27.26', 'title': 'The Widow', 'url': 'the-widow_609/index.html'}
+{'price': '£27.26', 'title': 'The Widow', 'url': 'the-widow_609/index.html'}
+2025-08-11 21:41:59 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£11.68',
+ 'title': 'The Sleep Revolution: Transforming Your Life, One Night at a Time',
+ 'url': 'the-sleep-revolution-transforming-your-life-one-night-at-a-time_608/index.html'}
+{'price': '£11.68',
+ 'title': 'The Sleep Revolution: Transforming Your Life, One Night at a Time',
+ 'url': 'the-sleep-revolution-transforming-your-life-one-night-at-a-time_608/index.html'}
+2025-08-11 21:41:59 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£59.45',
+ 'title': 'The Improbability of Love',
+ 'url': 'the-improbability-of-love_607/index.html'}
+{'price': '£59.45',
+ 'title': 'The Improbability of Love',
+ 'url': 'the-improbability-of-love_607/index.html'}
+2025-08-11 21:41:59 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£21.00',
+ 'title': 'The Art of Startup Fundraising',
+ 'url': 'the-art-of-startup-fundraising_606/index.html'}
+{'price': '£21.00',
+ 'title': 'The Art of Startup Fundraising',
+ 'url': 'the-art-of-startup-fundraising_606/index.html'}
+2025-08-11 21:41:59 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£53.98',
+ 'title': 'Take Me Home Tonight (Rock Star Romance #3)',
+ 'url': 'take-me-home-tonight-rock-star-romance-3_605/index.html'}
+{'price': '£53.98',
+ 'title': 'Take Me Home Tonight (Rock Star Romance #3)',
+ 'url': 'take-me-home-tonight-rock-star-romance-3_605/index.html'}
+2025-08-11 21:41:59 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£48.74',
+ 'title': 'Sleeping Giants (Themis Files #1)',
+ 'url': 'sleeping-giants-themis-files-1_604/index.html'}
+{'price': '£48.74',
+ 'title': 'Sleeping Giants (Themis Files #1)',
+ 'url': 'sleeping-giants-themis-files-1_604/index.html'}
+2025-08-11 21:41:59 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£21.15',
+ 'title': 'Setting the World on Fire: The Brief, Astonishing Life of St. '
+          'Catherine of Siena',
+ 'url': 'setting-the-world-on-fire-the-brief-astonishing-life-of-st-catherine-of-siena_603/index.html'}
+{'price': '£21.15',
+ 'title': 'Setting the World on Fire: The Brief, Astonishing Life of St. '
+          'Catherine of Siena',
+ 'url': 'setting-the-world-on-fire-the-brief-astonishing-life-of-st-catherine-of-siena_603/index.html'}
+2025-08-11 21:41:59 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£13.71',
+ 'title': 'Playing with Fire',
+ 'url': 'playing-with-fire_602/index.html'}
+{'price': '£13.71',
+ 'title': 'Playing with Fire',
+ 'url': 'playing-with-fire_602/index.html'}
+2025-08-11 21:41:59 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£47.67',
+ 'title': 'Off the Hook (Fishing for Trouble #1)',
+ 'url': 'off-the-hook-fishing-for-trouble-1_601/index.html'}
+{'price': '£47.67',
+ 'title': 'Off the Hook (Fishing for Trouble #1)',
+ 'url': 'off-the-hook-fishing-for-trouble-1_601/index.html'}
+2025-08-11 21:42:01 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£13.34',
+ 'title': 'Mothering Sunday',
+ 'url': 'mothering-sunday_600/index.html'}
+{'price': '£13.34',
+ 'title': 'Mothering Sunday',
+ 'url': 'mothering-sunday_600/index.html'}
+2025-08-11 21:42:01 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£16.89',
+ 'title': 'Mother, Can You Not?',
+ 'url': 'mother-can-you-not_599/index.html'}
+{'price': '£16.89',
+ 'title': 'Mother, Can You Not?',
+ 'url': 'mother-can-you-not_599/index.html'}
+2025-08-11 21:42:01 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£27.18', 'title': 'M Train', 'url': 'm-train_598/index.html'}
+{'price': '£27.18', 'title': 'M Train', 'url': 'm-train_598/index.html'}
+2025-08-11 21:42:01 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£17.28', 'title': 'Lilac Girls', 'url': 'lilac-girls_597/index.html'}
+{'price': '£17.28', 'title': 'Lilac Girls', 'url': 'lilac-girls_597/index.html'}
+2025-08-11 21:42:01 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£45.14',
+ 'title': 'Lies and Other Acts of Love',
+ 'url': 'lies-and-other-acts-of-love_596/index.html'}
+{'price': '£45.14',
+ 'title': 'Lies and Other Acts of Love',
+ 'url': 'lies-and-other-acts-of-love_596/index.html'}
+2025-08-11 21:42:01 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£40.85', 'title': 'Lab Girl', 'url': 'lab-girl_595/index.html'}
+{'price': '£40.85', 'title': 'Lab Girl', 'url': 'lab-girl_595/index.html'}
+2025-08-11 21:42:01 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£20.46',
+ 'title': 'Keep Me Posted',
+ 'url': 'keep-me-posted_594/index.html'}
+{'price': '£20.46',
+ 'title': 'Keep Me Posted',
+ 'url': 'keep-me-posted_594/index.html'}
+2025-08-11 21:42:01 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£56.27',
+ 'title': "It Didn't Start with You: How Inherited Family Trauma Shapes Who We "
+          'Are and How to End the Cycle',
+ 'url': 'it-didnt-start-with-you-how-inherited-family-trauma-shapes-who-we-are-and-how-to-end-the-cycle_593/index.html'}
+{'price': '£56.27',
+ 'title': "It Didn't Start with You: How Inherited Family Trauma Shapes Who We "
+          'Are and How to End the Cycle',
+ 'url': 'it-didnt-start-with-you-how-inherited-family-trauma-shapes-who-we-are-and-how-to-end-the-cycle_593/index.html'}
+2025-08-11 21:42:01 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£48.49',
+ 'title': 'Grey (Fifty Shades #4)',
+ 'url': 'grey-fifty-shades-4_592/index.html'}
+{'price': '£48.49',
+ 'title': 'Grey (Fifty Shades #4)',
+ 'url': 'grey-fifty-shades-4_592/index.html'}
+2025-08-11 21:42:01 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£51.34',
+ 'title': 'Exit, Pursued by a Bear',
+ 'url': 'exit-pursued-by-a-bear_591/index.html'}
+{'price': '£51.34',
+ 'title': 'Exit, Pursued by a Bear',
+ 'url': 'exit-pursued-by-a-bear_591/index.html'}
+2025-08-11 21:42:01 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£16.34', 'title': 'Daredevils', 'url': 'daredevils_590/index.html'}
+{'price': '£16.34', 'title': 'Daredevils', 'url': 'daredevils_590/index.html'}
+2025-08-11 21:42:01 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£20.50',
+ 'title': 'Cravings: Recipes for What You Want to Eat',
+ 'url': 'cravings-recipes-for-what-you-want-to-eat_589/index.html'}
+{'price': '£20.50',
+ 'title': 'Cravings: Recipes for What You Want to Eat',
+ 'url': 'cravings-recipes-for-what-you-want-to-eat_589/index.html'}
+2025-08-11 21:42:01 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£21.59',
+ 'title': 'Born for This: How to Find the Work You Were Meant to Do',
+ 'url': 'born-for-this-how-to-find-the-work-you-were-meant-to-do_588/index.html'}
+{'price': '£21.59',
+ 'title': 'Born for This: How to Find the Work You Were Meant to Do',
+ 'url': 'born-for-this-how-to-find-the-work-you-were-meant-to-do_588/index.html'}
+2025-08-11 21:42:01 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£21.36', 'title': 'Arena', 'url': 'arena_587/index.html'}
+{'price': '£21.36', 'title': 'Arena', 'url': 'arena_587/index.html'}
+2025-08-11 21:42:01 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£20.88', 'title': 'Adultery', 'url': 'adultery_586/index.html'}
+{'price': '£20.88', 'title': 'Adultery', 'url': 'adultery_586/index.html'}
+2025-08-11 21:42:01 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£19.53',
+ 'title': "A Mother's Reckoning: Living in the Aftermath of Tragedy",
+ 'url': 'a-mothers-reckoning-living-in-the-aftermath-of-tragedy_585/index.html'}
+{'price': '£19.53',
+ 'title': "A Mother's Reckoning: Living in the Aftermath of Tragedy",
+ 'url': 'a-mothers-reckoning-living-in-the-aftermath-of-tragedy_585/index.html'}
+2025-08-11 21:42:01 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£14.75',
+ 'title': "A Gentleman's Position (Society of Gentlemen #3)",
+ 'url': 'a-gentlemans-position-society-of-gentlemen-3_584/index.html'}
+{'price': '£14.75',
+ 'title': "A Gentleman's Position (Society of Gentlemen #3)",
+ 'url': 'a-gentlemans-position-society-of-gentlemen-3_584/index.html'}
+2025-08-11 21:42:01 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£48.48', 'title': '11/22/63', 'url': '112263_583/index.html'}
+{'price': '£48.48', 'title': '11/22/63', 'url': '112263_583/index.html'}
+2025-08-11 21:42:01 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£24.57',
+ 'title': '10% Happier: How I Tamed the Voice in My Head, Reduced Stress '
+          'Without Losing My Edge, and Found Self-Help That Actually Works',
+ 'url': '10-happier-how-i-tamed-the-voice-in-my-head-reduced-stress-without-losing-my-edge-and-found-self-help-that-actually-works_582/index.html'}
+{'price': '£24.57',
+ 'title': '10% Happier: How I Tamed the Voice in My Head, Reduced Stress '
+          'Without Losing My Edge, and Found Self-Help That Actually Works',
+ 'url': '10-happier-how-i-tamed-the-voice-in-my-head-reduced-stress-without-losing-my-edge-and-found-self-help-that-actually-works_582/index.html'}
+2025-08-11 21:42:01 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£49.71',
+ 'title': '10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!',
+ 'url': '10-day-green-smoothie-cleanse-lose-up-to-15-pounds-in-10-days_581/index.html'}
+{'price': '£49.71',
+ 'title': '10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!',
+ 'url': '10-day-green-smoothie-cleanse-lose-up-to-15-pounds-in-10-days_581/index.html'}
+2025-08-11 21:42:03 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£48.27',
+ 'title': 'Without Shame',
+ 'url': 'without-shame_580/index.html'}
+{'price': '£48.27',
+ 'title': 'Without Shame',
+ 'url': 'without-shame_580/index.html'}
+2025-08-11 21:42:03 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£58.05', 'title': 'Watchmen', 'url': 'watchmen_579/index.html'}
+{'price': '£58.05', 'title': 'Watchmen', 'url': 'watchmen_579/index.html'}
+2025-08-11 21:42:03 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£58.87',
+ 'title': 'Unlimited Intuition Now',
+ 'url': 'unlimited-intuition-now_578/index.html'}
+{'price': '£58.87',
+ 'title': 'Unlimited Intuition Now',
+ 'url': 'unlimited-intuition-now_578/index.html'}
+2025-08-11 21:42:03 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£11.82',
+ 'title': 'Underlying Notes',
+ 'url': 'underlying-notes_577/index.html'}
+{'price': '£11.82',
+ 'title': 'Underlying Notes',
+ 'url': 'underlying-notes_577/index.html'}
+2025-08-11 21:42:03 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£28.03', 'title': 'The Shack', 'url': 'the-shack_576/index.html'}
+{'price': '£28.03', 'title': 'The Shack', 'url': 'the-shack_576/index.html'}
+2025-08-11 21:42:03 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£44.05',
+ 'title': 'The New Brand You: Your New Image Makes the Sale for You',
+ 'url': 'the-new-brand-you-your-new-image-makes-the-sale-for-you_575/index.html'}
+{'price': '£44.05',
+ 'title': 'The New Brand You: Your New Image Makes the Sale for You',
+ 'url': 'the-new-brand-you-your-new-image-makes-the-sale-for-you_575/index.html'}
+2025-08-11 21:42:03 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£12.34',
+ 'title': 'The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, '
+          'New York',
+ 'url': 'the-moosewood-cookbook-recipes-from-moosewood-restaurant-ithaca-new-york_574/index.html'}
+{'price': '£12.34',
+ 'title': 'The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, '
+          'New York',
+ 'url': 'the-moosewood-cookbook-recipes-from-moosewood-restaurant-ithaca-new-york_574/index.html'}
+2025-08-11 21:42:03 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£16.68',
+ 'title': 'The Flowers Lied',
+ 'url': 'the-flowers-lied_573/index.html'}
+{'price': '£16.68',
+ 'title': 'The Flowers Lied',
+ 'url': 'the-flowers-lied_573/index.html'}
+2025-08-11 21:42:03 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£55.91',
+ 'title': 'The Fabric of the Cosmos: Space, Time, and the Texture of Reality',
+ 'url': 'the-fabric-of-the-cosmos-space-time-and-the-texture-of-reality_572/index.html'}
+{'price': '£55.91',
+ 'title': 'The Fabric of the Cosmos: Space, Time, and the Texture of Reality',
+ 'url': 'the-fabric-of-the-cosmos-space-time-and-the-texture-of-reality_572/index.html'}
+2025-08-11 21:42:03 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£24.57',
+ 'title': 'The Book of Mormon',
+ 'url': 'the-book-of-mormon_571/index.html'}
+{'price': '£24.57',
+ 'title': 'The Book of Mormon',
+ 'url': 'the-book-of-mormon_571/index.html'}
+2025-08-11 21:42:03 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£52.98',
+ 'title': 'The Art and Science of Low Carbohydrate Living',
+ 'url': 'the-art-and-science-of-low-carbohydrate-living_570/index.html'}
+{'price': '£52.98',
+ 'title': 'The Art and Science of Low Carbohydrate Living',
+ 'url': 'the-art-and-science-of-low-carbohydrate-living_570/index.html'}
+2025-08-11 21:42:03 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£54.40',
+ 'title': 'The Alien Club',
+ 'url': 'the-alien-club_569/index.html'}
+{'price': '£54.40',
+ 'title': 'The Alien Club',
+ 'url': 'the-alien-club_569/index.html'}
+2025-08-11 21:42:03 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£54.81',
+ 'title': 'Suzie Snowflake: One beautiful flake (a self-esteem story)',
+ 'url': 'suzie-snowflake-one-beautiful-flake-a-self-esteem-story_568/index.html'}
+{'price': '£54.81',
+ 'title': 'Suzie Snowflake: One beautiful flake (a self-esteem story)',
+ 'url': 'suzie-snowflake-one-beautiful-flake-a-self-esteem-story_568/index.html'}
+2025-08-11 21:42:03 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£25.08', 'title': 'Nap-a-Roo', 'url': 'nap-a-roo_567/index.html'}
+{'price': '£25.08', 'title': 'Nap-a-Roo', 'url': 'nap-a-roo_567/index.html'}
+2025-08-11 21:42:03 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£10.41',
+ 'title': 'NaNo What Now? Finding your editing process, revising your '
+          'NaNoWriMo book and building a writing career through publishing and '
+          'beyond',
+ 'url': 'nano-what-now-finding-your-editing-process-revising-your-nanowrimo-book-and-building-a-writing-career-through-publishing-and-beyond_566/index.html'}
+{'price': '£10.41',
+ 'title': 'NaNo What Now? Finding your editing process, revising your '
+          'NaNoWriMo book and building a writing career through publishing and '
+          'beyond',
+ 'url': 'nano-what-now-finding-your-editing-process-revising-your-nanowrimo-book-and-building-a-writing-career-through-publishing-and-beyond_566/index.html'}
+2025-08-11 21:42:03 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£47.44',
+ 'title': 'Modern Day Fables',
+ 'url': 'modern-day-fables_565/index.html'}
+{'price': '£47.44',
+ 'title': 'Modern Day Fables',
+ 'url': 'modern-day-fables_565/index.html'}
+2025-08-11 21:42:03 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£20.91',
+ 'title': "If I Gave You God's Phone Number....: Searching for Spirituality in "
+          'America',
+ 'url': 'if-i-gave-you-gods-phone-number-searching-for-spirituality-in-america_564/index.html'}
+{'price': '£20.91',
+ 'title': "If I Gave You God's Phone Number....: Searching for Spirituality in "
+          'America',
+ 'url': 'if-i-gave-you-gods-phone-number-searching-for-spirituality-in-america_564/index.html'}
+2025-08-11 21:42:04 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£33.95',
+ 'title': 'Fruits Basket, Vol. 9 (Fruits Basket #9)',
+ 'url': 'fruits-basket-vol-9-fruits-basket-9_563/index.html'}
+{'price': '£33.95',
+ 'title': 'Fruits Basket, Vol. 9 (Fruits Basket #9)',
+ 'url': 'fruits-basket-vol-9-fruits-basket-9_563/index.html'}
+2025-08-11 21:42:04 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£43.68',
+ 'title': 'Dress Your Family in Corduroy and Denim',
+ 'url': 'dress-your-family-in-corduroy-and-denim_562/index.html'}
+{'price': '£43.68',
+ 'title': 'Dress Your Family in Corduroy and Denim',
+ 'url': 'dress-your-family-in-corduroy-and-denim_562/index.html'}
+2025-08-11 21:42:04 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£33.23',
+ 'title': "Don't Forget Steven",
+ 'url': 'dont-forget-steven_561/index.html'}
+{'price': '£33.23',
+ 'title': "Don't Forget Steven",
+ 'url': 'dont-forget-steven_561/index.html'}
+2025-08-11 21:42:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£35.92',
+ 'title': "Chernobyl 01:23:40: The Incredible True Story of the World's Worst "
+          'Nuclear Disaster',
+ 'url': 'chernobyl-012340-the-incredible-true-story-of-the-worlds-worst-nuclear-disaster_560/index.html'}
+{'price': '£35.92',
+ 'title': "Chernobyl 01:23:40: The Incredible True Story of the World's Worst "
+          'Nuclear Disaster',
+ 'url': 'chernobyl-012340-the-incredible-true-story-of-the-worlds-worst-nuclear-disaster_560/index.html'}
+2025-08-11 21:42:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£48.63',
+ 'title': 'Art and Fear: Observations on the Perils (and Rewards) of Artmaking',
+ 'url': 'art-and-fear-observations-on-the-perils-and-rewards-of-artmaking_559/index.html'}
+{'price': '£48.63',
+ 'title': 'Art and Fear: Observations on the Perils (and Rewards) of Artmaking',
+ 'url': 'art-and-fear-observations-on-the-perils-and-rewards-of-artmaking_559/index.html'}
+2025-08-11 21:42:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£56.63',
+ 'title': 'A Shard of Ice (The Black Symphony Saga #1)',
+ 'url': 'a-shard-of-ice-the-black-symphony-saga-1_558/index.html'}
+{'price': '£56.63',
+ 'title': 'A Shard of Ice (The Black Symphony Saga #1)',
+ 'url': 'a-shard-of-ice-the-black-symphony-saga-1_558/index.html'}
+2025-08-11 21:42:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£50.49',
+ 'title': "A Hero's Curse (The Unseen Chronicles #1)",
+ 'url': 'a-heros-curse-the-unseen-chronicles-1_557/index.html'}
+{'price': '£50.49',
+ 'title': "A Hero's Curse (The Unseen Chronicles #1)",
+ 'url': 'a-heros-curse-the-unseen-chronicles-1_557/index.html'}
+2025-08-11 21:42:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£35.79',
+ 'title': '23 Degrees South: A Tropical Tale of Changing Whether...',
+ 'url': '23-degrees-south-a-tropical-tale-of-changing-whether_556/index.html'}
+{'price': '£35.79',
+ 'title': '23 Degrees South: A Tropical Tale of Changing Whether...',
+ 'url': '23-degrees-south-a-tropical-tale-of-changing-whether_556/index.html'}
+2025-08-11 21:42:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£34.06',
+ 'title': 'Zero to One: Notes on Startups, or How to Build the Future',
+ 'url': 'zero-to-one-notes-on-startups-or-how-to-build-the-future_555/index.html'}
+{'price': '£34.06',
+ 'title': 'Zero to One: Notes on Startups, or How to Build the Future',
+ 'url': 'zero-to-one-notes-on-startups-or-how-to-build-the-future_555/index.html'}
+2025-08-11 21:42:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£17.76', 'title': 'Why Not Me?', 'url': 'why-not-me_554/index.html'}
+{'price': '£17.76', 'title': 'Why Not Me?', 'url': 'why-not-me_554/index.html'}
+2025-08-11 21:42:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£39.36',
+ 'title': 'When Breath Becomes Air',
+ 'url': 'when-breath-becomes-air_553/index.html'}
+{'price': '£39.36',
+ 'title': 'When Breath Becomes Air',
+ 'url': 'when-breath-becomes-air_553/index.html'}
+2025-08-11 21:42:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£36.94',
+ 'title': 'Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel',
+ 'url': 'vagabonding-an-uncommon-guide-to-the-art-of-long-term-world-travel_552/index.html'}
+{'price': '£36.94',
+ 'title': 'Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel',
+ 'url': 'vagabonding-an-uncommon-guide-to-the-art-of-long-term-world-travel_552/index.html'}
+2025-08-11 21:42:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£43.62',
+ 'title': 'The Unlikely Pilgrimage of Harold Fry (Harold Fry #1)',
+ 'url': 'the-unlikely-pilgrimage-of-harold-fry-harold-fry-1_551/index.html'}
+{'price': '£43.62',
+ 'title': 'The Unlikely Pilgrimage of Harold Fry (Harold Fry #1)',
+ 'url': 'the-unlikely-pilgrimage-of-harold-fry-harold-fry-1_551/index.html'}
+2025-08-11 21:42:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£43.02',
+ 'title': 'The New Drawing on the Right Side of the Brain',
+ 'url': 'the-new-drawing-on-the-right-side-of-the-brain_550/index.html'}
+{'price': '£43.02',
+ 'title': 'The New Drawing on the Right Side of the Brain',
+ 'url': 'the-new-drawing-on-the-right-side-of-the-brain_550/index.html'}
+2025-08-11 21:42:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£28.45',
+ 'title': "The Midnight Assassin: Panic, Scandal, and the Hunt for America's "
+          'First Serial Killer',
+ 'url': 'the-midnight-assassin-panic-scandal-and-the-hunt-for-americas-first-serial-killer_549/index.html'}
+{'price': '£28.45',
+ 'title': "The Midnight Assassin: Panic, Scandal, and the Hunt for America's "
+          'First Serial Killer',
+ 'url': 'the-midnight-assassin-panic-scandal-and-the-hunt-for-americas-first-serial-killer_549/index.html'}
+2025-08-11 21:42:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£41.39',
+ 'title': 'The Martian (The Martian #1)',
+ 'url': 'the-martian-the-martian-1_548/index.html'}
+{'price': '£41.39',
+ 'title': 'The Martian (The Martian #1)',
+ 'url': 'the-martian-the-martian-1_548/index.html'}
+2025-08-11 21:42:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£51.15',
+ 'title': 'The High Mountains of Portugal',
+ 'url': 'the-high-mountains-of-portugal_547/index.html'}
+{'price': '£51.15',
+ 'title': 'The High Mountains of Portugal',
+ 'url': 'the-high-mountains-of-portugal_547/index.html'}
+2025-08-11 21:42:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£35.88', 'title': 'The Grownup', 'url': 'the-grownup_546/index.html'}
+{'price': '£35.88', 'title': 'The Grownup', 'url': 'the-grownup_546/index.html'}
+2025-08-11 21:42:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£36.91',
+ 'title': "The E-Myth Revisited: Why Most Small Businesses Don't Work and What "
+          'to Do About It',
+ 'url': 'the-e-myth-revisited-why-most-small-businesses-dont-work-and-what-to-do-about-it_545/index.html'}
+{'price': '£36.91',
+ 'title': "The E-Myth Revisited: Why Most Small Businesses Don't Work and What "
+          'to Do About It',
+ 'url': 'the-e-myth-revisited-why-most-small-businesses-dont-work-and-what-to-do-about-it_545/index.html'}
+2025-08-11 21:42:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£28.93',
+ 'title': 'South of Sunshine',
+ 'url': 'south-of-sunshine_544/index.html'}
+{'price': '£28.93',
+ 'title': 'South of Sunshine',
+ 'url': 'south-of-sunshine_544/index.html'}
+2025-08-11 21:42:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£38.89',
+ 'title': 'Smarter Faster Better: The Secrets of Being Productive in Life and '
+          'Business',
+ 'url': 'smarter-faster-better-the-secrets-of-being-productive-in-life-and-business_543/index.html'}
+{'price': '£38.89',
+ 'title': 'Smarter Faster Better: The Secrets of Being Productive in Life and '
+          'Business',
+ 'url': 'smarter-faster-better-the-secrets-of-being-productive-in-life-and-business_543/index.html'}
+2025-08-11 21:42:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£58.33',
+ 'title': 'Silence in the Dark (Logan Point #4)',
+ 'url': 'silence-in-the-dark-logan-point-4_542/index.html'}
+{'price': '£58.33',
+ 'title': 'Silence in the Dark (Logan Point #4)',
+ 'url': 'silence-in-the-dark-logan-point-4_542/index.html'}
+2025-08-11 21:42:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£39.67',
+ 'title': 'Shadows of the Past (Logan Point #1)',
+ 'url': 'shadows-of-the-past-logan-point-1_541/index.html'}
+{'price': '£39.67',
+ 'title': 'Shadows of the Past (Logan Point #1)',
+ 'url': 'shadows-of-the-past-logan-point-1_541/index.html'}
+2025-08-11 21:42:11 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£14.10', 'title': 'Roller Girl', 'url': 'roller-girl_540/index.html'}
+{'price': '£14.10', 'title': 'Roller Girl', 'url': 'roller-girl_540/index.html'}
+2025-08-11 21:42:11 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£21.82',
+ 'title': 'Rising Strong',
+ 'url': 'rising-strong_539/index.html'}
+{'price': '£21.82',
+ 'title': 'Rising Strong',
+ 'url': 'rising-strong_539/index.html'}
+2025-08-11 21:42:11 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£54.21',
+ 'title': 'Proofs of God: Classical Arguments from Tertullian to Barth',
+ 'url': 'proofs-of-god-classical-arguments-from-tertullian-to-barth_538/index.html'}
+{'price': '£54.21',
+ 'title': 'Proofs of God: Classical Arguments from Tertullian to Barth',
+ 'url': 'proofs-of-god-classical-arguments-from-tertullian-to-barth_538/index.html'}
+2025-08-11 21:42:11 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£31.19',
+ 'title': 'Please Kill Me: The Uncensored Oral History of Punk',
+ 'url': 'please-kill-me-the-uncensored-oral-history-of-punk_537/index.html'}
+{'price': '£31.19',
+ 'title': 'Please Kill Me: The Uncensored Oral History of Punk',
+ 'url': 'please-kill-me-the-uncensored-oral-history-of-punk_537/index.html'}
+2025-08-11 21:42:11 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£53.64',
+ 'title': 'Out of Print: City Lights Spotlight No. 14',
+ 'url': 'out-of-print-city-lights-spotlight-no-14_536/index.html'}
+{'price': '£53.64',
+ 'title': 'Out of Print: City Lights Spotlight No. 14',
+ 'url': 'out-of-print-city-lights-spotlight-no-14_536/index.html'}
+2025-08-11 21:42:11 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£36.39',
+ 'title': 'My Life Next Door (My Life Next Door )',
+ 'url': 'my-life-next-door-my-life-next-door_535/index.html'}
+{'price': '£36.39',
+ 'title': 'My Life Next Door (My Life Next Door )',
+ 'url': 'my-life-next-door-my-life-next-door_535/index.html'}
+2025-08-11 21:42:11 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£58.54',
+ 'title': "Miller's Valley",
+ 'url': 'millers-valley_534/index.html'}
+{'price': '£58.54',
+ 'title': "Miller's Valley",
+ 'url': 'millers-valley_534/index.html'}
+2025-08-11 21:42:11 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£29.48',
+ 'title': "Man's Search for Meaning",
+ 'url': 'mans-search-for-meaning_533/index.html'}
+{'price': '£29.48',
+ 'title': "Man's Search for Meaning",
+ 'url': 'mans-search-for-meaning_533/index.html'}
+2025-08-11 21:42:11 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£25.06',
+ 'title': 'Love That Boy: What Two Presidents, Eight Road Trips, and My Son '
+          "Taught Me About a Parent's Expectations",
+ 'url': 'love-that-boy-what-two-presidents-eight-road-trips-and-my-son-taught-me-about-a-parents-expectations_532/index.html'}
+{'price': '£25.06',
+ 'title': 'Love That Boy: What Two Presidents, Eight Road Trips, and My Son '
+          "Taught Me About a Parent's Expectations",
+ 'url': 'love-that-boy-what-two-presidents-eight-road-trips-and-my-son-taught-me-about-a-parents-expectations_532/index.html'}
+2025-08-11 21:42:11 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£12.55',
+ 'title': 'Living Forward: A Proven Plan to Stop Drifting and Get the Life You '
+          'Want',
+ 'url': 'living-forward-a-proven-plan-to-stop-drifting-and-get-the-life-you-want_531/index.html'}
+{'price': '£12.55',
+ 'title': 'Living Forward: A Proven Plan to Stop Drifting and Get the Life You '
+          'Want',
+ 'url': 'living-forward-a-proven-plan-to-stop-drifting-and-get-the-life-you-want_531/index.html'}
+2025-08-11 21:42:11 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£29.04',
+ 'title': 'Les Fleurs du Mal',
+ 'url': 'les-fleurs-du-mal_530/index.html'}
+{'price': '£29.04',
+ 'title': 'Les Fleurs du Mal',
+ 'url': 'les-fleurs-du-mal_530/index.html'}
+2025-08-11 21:42:11 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£40.72',
+ 'title': 'Left Behind (Left Behind #1)',
+ 'url': 'left-behind-left-behind-1_529/index.html'}
+{'price': '£40.72',
+ 'title': 'Left Behind (Left Behind #1)',
+ 'url': 'left-behind-left-behind-1_529/index.html'}
+2025-08-11 21:42:11 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£45.05',
+ 'title': "Kill 'Em and Leave: Searching for James Brown and the American Soul",
+ 'url': 'kill-em-and-leave-searching-for-james-brown-and-the-american-soul_528/index.html'}
+{'price': '£45.05',
+ 'title': "Kill 'Em and Leave: Searching for James Brown and the American Soul",
+ 'url': 'kill-em-and-leave-searching-for-james-brown-and-the-american-soul_528/index.html'}
+2025-08-11 21:42:11 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£47.13',
+ 'title': 'Kierkegaard: A Christian Missionary to Christians',
+ 'url': 'kierkegaard-a-christian-missionary-to-christians_527/index.html'}
+{'price': '£47.13',
+ 'title': 'Kierkegaard: A Christian Missionary to Christians',
+ 'url': 'kierkegaard-a-christian-missionary-to-christians_527/index.html'}
+2025-08-11 21:42:11 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£20.22',
+ 'title': 'John Vassos: Industrial Design for Modern Life',
+ 'url': 'john-vassos-industrial-design-for-modern-life_526/index.html'}
+{'price': '£20.22',
+ 'title': 'John Vassos: Industrial Design for Modern Life',
+ 'url': 'john-vassos-industrial-design-for-modern-life_526/index.html'}
+2025-08-11 21:42:11 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£56.48',
+ 'title': "I'll Give You the Sun",
+ 'url': 'ill-give-you-the-sun_525/index.html'}
+{'price': '£56.48',
+ 'title': "I'll Give You the Sun",
+ 'url': 'ill-give-you-the-sun_525/index.html'}
+2025-08-11 21:42:11 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£44.21',
+ 'title': 'I Will Find You',
+ 'url': 'i-will-find-you_524/index.html'}
+{'price': '£44.21',
+ 'title': 'I Will Find You',
+ 'url': 'i-will-find-you_524/index.html'}
+2025-08-11 21:42:11 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£21.96',
+ 'title': 'Hystopia: A Novel',
+ 'url': 'hystopia-a-novel_523/index.html'}
+{'price': '£21.96',
+ 'title': 'Hystopia: A Novel',
+ 'url': 'hystopia-a-novel_523/index.html'}
+2025-08-11 21:42:11 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£40.45',
+ 'title': 'Howl and Other Poems',
+ 'url': 'howl-and-other-poems_522/index.html'}
+{'price': '£40.45',
+ 'title': 'Howl and Other Poems',
+ 'url': 'howl-and-other-poems_522/index.html'}
+2025-08-11 21:42:11 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£10.29',
+ 'title': 'History of Beauty',
+ 'url': 'history-of-beauty_521/index.html'}
+{'price': '£10.29',
+ 'title': 'History of Beauty',
+ 'url': 'history-of-beauty_521/index.html'}
+2025-08-11 21:42:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£52.86',
+ 'title': "Heaven is for Real: A Little Boy's Astounding Story of His Trip to "
+          'Heaven and Back',
+ 'url': 'heaven-is-for-real-a-little-boys-astounding-story-of-his-trip-to-heaven-and-back_520/index.html'}
+{'price': '£52.86',
+ 'title': "Heaven is for Real: A Little Boy's Astounding Story of His Trip to "
+          'Heaven and Back',
+ 'url': 'heaven-is-for-real-a-little-boys-astounding-story-of-his-trip-to-heaven-and-back_520/index.html'}
+2025-08-11 21:42:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£55.65',
+ 'title': 'Future Shock (Future Shock #1)',
+ 'url': 'future-shock-future-shock-1_519/index.html'}
+{'price': '£55.65',
+ 'title': 'Future Shock (Future Shock #1)',
+ 'url': 'future-shock-future-shock-1_519/index.html'}
+2025-08-11 21:42:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£43.64',
+ 'title': "Ender's Game (The Ender Quintet #1)",
+ 'url': 'enders-game-the-ender-quintet-1_518/index.html'}
+{'price': '£43.64',
+ 'title': "Ender's Game (The Ender Quintet #1)",
+ 'url': 'enders-game-the-ender-quintet-1_518/index.html'}
+2025-08-11 21:42:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£28.41',
+ 'title': 'Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New '
+          'Ways of Engaging the World',
+ 'url': 'diary-of-a-citizen-scientist-chasing-tiger-beetles-and-other-new-ways-of-engaging-the-world_517/index.html'}
+{'price': '£28.41',
+ 'title': 'Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New '
+          'Ways of Engaging the World',
+ 'url': 'diary-of-a-citizen-scientist-chasing-tiger-beetles-and-other-new-ways-of-engaging-the-world_517/index.html'}
+2025-08-11 21:42:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£37.51',
+ 'title': 'Death by Leisure: A Cautionary Tale',
+ 'url': 'death-by-leisure-a-cautionary-tale_516/index.html'}
+{'price': '£37.51',
+ 'title': 'Death by Leisure: A Cautionary Tale',
+ 'url': 'death-by-leisure-a-cautionary-tale_516/index.html'}
+2025-08-11 21:42:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£11.45',
+ 'title': 'Brilliant Beacons: A History of the American Lighthouse',
+ 'url': 'brilliant-beacons-a-history-of-the-american-lighthouse_515/index.html'}
+{'price': '£11.45',
+ 'title': 'Brilliant Beacons: A History of the American Lighthouse',
+ 'url': 'brilliant-beacons-a-history-of-the-american-lighthouse_515/index.html'}
+2025-08-11 21:42:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£19.22',
+ 'title': "Brazen: The Courage to Find the You That's Been Hiding",
+ 'url': 'brazen-the-courage-to-find-the-you-thats-been-hiding_514/index.html'}
+{'price': '£19.22',
+ 'title': "Brazen: The Courage to Find the You That's Been Hiding",
+ 'url': 'brazen-the-courage-to-find-the-you-thats-been-hiding_514/index.html'}
+2025-08-11 21:42:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£56.91',
+ 'title': 'Between the World and Me',
+ 'url': 'between-the-world-and-me_513/index.html'}
+{'price': '£56.91',
+ 'title': 'Between the World and Me',
+ 'url': 'between-the-world-and-me_513/index.html'}
+2025-08-11 21:42:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£55.06',
+ 'title': 'Being Mortal: Medicine and What Matters in the End',
+ 'url': 'being-mortal-medicine-and-what-matters-in-the-end_512/index.html'}
+{'price': '£55.06',
+ 'title': 'Being Mortal: Medicine and What Matters in the End',
+ 'url': 'being-mortal-medicine-and-what-matters-in-the-end_512/index.html'}
+2025-08-11 21:42:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£13.20',
+ 'title': 'A Murder Over a Girl: Justice, Gender, Junior High',
+ 'url': 'a-murder-over-a-girl-justice-gender-junior-high_511/index.html'}
+{'price': '£13.20',
+ 'title': 'A Murder Over a Girl: Justice, Gender, Junior High',
+ 'url': 'a-murder-over-a-girl-justice-gender-junior-high_511/index.html'}
+2025-08-11 21:42:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£53.63', 'title': '32 Yolks', 'url': '32-yolks_510/index.html'}
+{'price': '£53.63', 'title': '32 Yolks', 'url': '32-yolks_510/index.html'}
+2025-08-11 21:42:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£44.48',
+ 'title': '"Most Blessed of the Patriarchs": Thomas Jefferson and the Empire '
+          'of the Imagination',
+ 'url': 'most-blessed-of-the-patriarchs-thomas-jefferson-and-the-empire-of-the-imagination_509/index.html'}
+{'price': '£44.48',
+ 'title': '"Most Blessed of the Patriarchs": Thomas Jefferson and the Empire '
+          'of the Imagination',
+ 'url': 'most-blessed-of-the-patriarchs-thomas-jefferson-and-the-empire-of-the-imagination_509/index.html'}
+2025-08-11 21:42:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£12.08',
+ 'title': 'You Are a Badass: How to Stop Doubting Your Greatness and Start '
+          'Living an Awesome Life',
+ 'url': 'you-are-a-badass-how-to-stop-doubting-your-greatness-and-start-living-an-awesome-life_508/index.html'}
+{'price': '£12.08',
+ 'title': 'You Are a Badass: How to Stop Doubting Your Greatness and Start '
+          'Living an Awesome Life',
+ 'url': 'you-are-a-badass-how-to-stop-doubting-your-greatness-and-start-living-an-awesome-life_508/index.html'}
+2025-08-11 21:42:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£22.14',
+ 'title': 'Wildlife of New York: A Five-Borough Coloring Book',
+ 'url': 'wildlife-of-new-york-a-five-borough-coloring-book_507/index.html'}
+{'price': '£22.14',
+ 'title': 'Wildlife of New York: A Five-Borough Coloring Book',
+ 'url': 'wildlife-of-new-york-a-five-borough-coloring-book_507/index.html'}
+2025-08-11 21:42:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£25.37',
+ 'title': 'What Happened on Beale Street (Secrets of the South Mysteries #2)',
+ 'url': 'what-happened-on-beale-street-secrets-of-the-south-mysteries-2_506/index.html'}
+{'price': '£25.37',
+ 'title': 'What Happened on Beale Street (Secrets of the South Mysteries #2)',
+ 'url': 'what-happened-on-beale-street-secrets-of-the-south-mysteries-2_506/index.html'}
+2025-08-11 21:42:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£46.33',
+ 'title': 'Unreasonable Hope: Finding Faith in the God Who Brings Purpose to '
+          'Your Pain',
+ 'url': 'unreasonable-hope-finding-faith-in-the-god-who-brings-purpose-to-your-pain_505/index.html'}
+{'price': '£46.33',
+ 'title': 'Unreasonable Hope: Finding Faith in the God Who Brings Purpose to '
+          'Your Pain',
+ 'url': 'unreasonable-hope-finding-faith-in-the-god-who-brings-purpose-to-your-pain_505/index.html'}
+2025-08-11 21:42:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£37.33',
+ 'title': 'Under the Tuscan Sun',
+ 'url': 'under-the-tuscan-sun_504/index.html'}
+{'price': '£37.33',
+ 'title': 'Under the Tuscan Sun',
+ 'url': 'under-the-tuscan-sun_504/index.html'}
+2025-08-11 21:42:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£25.55',
+ 'title': "Toddlers Are A**holes: It's Not Your Fault",
+ 'url': 'toddlers-are-aholes-its-not-your-fault_503/index.html'}
+{'price': '£25.55',
+ 'title': "Toddlers Are A**holes: It's Not Your Fault",
+ 'url': 'toddlers-are-aholes-its-not-your-fault_503/index.html'}
+2025-08-11 21:42:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£34.72',
+ 'title': "The Year of Living Biblically: One Man's Humble Quest to Follow the "
+          'Bible as Literally as Possible',
+ 'url': 'the-year-of-living-biblically-one-mans-humble-quest-to-follow-the-bible-as-literally-as-possible_502/index.html'}
+{'price': '£34.72',
+ 'title': "The Year of Living Biblically: One Man's Humble Quest to Follow the "
+          'Bible as Literally as Possible',
+ 'url': 'the-year-of-living-biblically-one-mans-humble-quest-to-follow-the-bible-as-literally-as-possible_502/index.html'}
+2025-08-11 21:42:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£35.96', 'title': 'The Whale', 'url': 'the-whale_501/index.html'}
+{'price': '£35.96', 'title': 'The Whale', 'url': 'the-whale_501/index.html'}
+2025-08-11 21:42:22 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£41.14',
+ 'title': 'The Story of Art',
+ 'url': 'the-story-of-art_500/index.html'}
+{'price': '£41.14',
+ 'title': 'The Story of Art',
+ 'url': 'the-story-of-art_500/index.html'}
+2025-08-11 21:42:22 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£10.01',
+ 'title': 'The Origin of Species',
+ 'url': 'the-origin-of-species_499/index.html'}
+{'price': '£10.01',
+ 'title': 'The Origin of Species',
+ 'url': 'the-origin-of-species_499/index.html'}
+2025-08-11 21:42:22 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£36.05',
+ 'title': 'The Great Gatsby',
+ 'url': 'the-great-gatsby_498/index.html'}
+{'price': '£36.05',
+ 'title': 'The Great Gatsby',
+ 'url': 'the-great-gatsby_498/index.html'}
+2025-08-11 21:42:22 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£49.03',
+ 'title': 'The Good Girl',
+ 'url': 'the-good-girl_497/index.html'}
+{'price': '£49.03',
+ 'title': 'The Good Girl',
+ 'url': 'the-good-girl_497/index.html'}
+2025-08-11 21:42:22 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£16.24',
+ 'title': 'The Glass Castle',
+ 'url': 'the-glass-castle_496/index.html'}
+{'price': '£16.24',
+ 'title': 'The Glass Castle',
+ 'url': 'the-glass-castle_496/index.html'}
+2025-08-11 21:42:22 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£39.55',
+ 'title': "The Faith of Christopher Hitchens: The Restless Soul of the World's "
+          'Most Notorious Atheist',
+ 'url': 'the-faith-of-christopher-hitchens-the-restless-soul-of-the-worlds-most-notorious-atheist_495/index.html'}
+{'price': '£39.55',
+ 'title': "The Faith of Christopher Hitchens: The Restless Soul of the World's "
+          'Most Notorious Atheist',
+ 'url': 'the-faith-of-christopher-hitchens-the-restless-soul-of-the-worlds-most-notorious-atheist_495/index.html'}
+2025-08-11 21:42:22 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£35.67',
+ 'title': 'The Drowning Girls',
+ 'url': 'the-drowning-girls_494/index.html'}
+{'price': '£35.67',
+ 'title': 'The Drowning Girls',
+ 'url': 'the-drowning-girls_494/index.html'}
+2025-08-11 21:42:22 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£16.62',
+ 'title': 'The Constant Princess (The Tudor Court #1)',
+ 'url': 'the-constant-princess-the-tudor-court-1_493/index.html'}
+{'price': '£16.62',
+ 'title': 'The Constant Princess (The Tudor Court #1)',
+ 'url': 'the-constant-princess-the-tudor-court-1_493/index.html'}
+2025-08-11 21:42:22 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£42.78',
+ 'title': 'The Bourne Identity (Jason Bourne #1)',
+ 'url': 'the-bourne-identity-jason-bourne-1_492/index.html'}
+{'price': '£42.78',
+ 'title': 'The Bourne Identity (Jason Bourne #1)',
+ 'url': 'the-bourne-identity-jason-bourne-1_492/index.html'}
+2025-08-11 21:42:22 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£52.30',
+ 'title': "The Bachelor Girl's Guide to Murder (Herringford and Watts "
+          'Mysteries #1)',
+ 'url': 'the-bachelor-girls-guide-to-murder-herringford-and-watts-mysteries-1_491/index.html'}
+{'price': '£52.30',
+ 'title': "The Bachelor Girl's Guide to Murder (Herringford and Watts "
+          'Mysteries #1)',
+ 'url': 'the-bachelor-girls-guide-to-murder-herringford-and-watts-mysteries-1_491/index.html'}
+2025-08-11 21:42:22 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£32.34',
+ 'title': 'The Art Book',
+ 'url': 'the-art-book_490/index.html'}
+{'price': '£32.34',
+ 'title': 'The Art Book',
+ 'url': 'the-art-book_490/index.html'}
+2025-08-11 21:42:22 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£33.17',
+ 'title': 'The 7 Habits of Highly Effective People: Powerful Lessons in '
+          'Personal Change',
+ 'url': 'the-7-habits-of-highly-effective-people-powerful-lessons-in-personal-change_489/index.html'}
+{'price': '£33.17',
+ 'title': 'The 7 Habits of Highly Effective People: Powerful Lessons in '
+          'Personal Change',
+ 'url': 'the-7-habits-of-highly-effective-people-powerful-lessons-in-personal-change_489/index.html'}
+2025-08-11 21:42:22 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£20.12',
+ 'title': 'Team of Rivals: The Political Genius of Abraham Lincoln',
+ 'url': 'team-of-rivals-the-political-genius-of-abraham-lincoln_488/index.html'}
+{'price': '£20.12',
+ 'title': 'Team of Rivals: The Political Genius of Abraham Lincoln',
+ 'url': 'team-of-rivals-the-political-genius-of-abraham-lincoln_488/index.html'}
+2025-08-11 21:42:22 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£20.90',
+ 'title': 'Steal Like an Artist: 10 Things Nobody Told You About Being '
+          'Creative',
+ 'url': 'steal-like-an-artist-10-things-nobody-told-you-about-being-creative_487/index.html'}
+{'price': '£20.90',
+ 'title': 'Steal Like an Artist: 10 Things Nobody Told You About Being '
+          'Creative',
+ 'url': 'steal-like-an-artist-10-things-nobody-told-you-about-being-creative_487/index.html'}
+2025-08-11 21:42:22 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£20.90',
+ 'title': 'Sit, Stay, Love',
+ 'url': 'sit-stay-love_486/index.html'}
+{'price': '£20.90',
+ 'title': 'Sit, Stay, Love',
+ 'url': 'sit-stay-love_486/index.html'}
+2025-08-11 21:42:22 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£40.20', 'title': 'Sister Dear', 'url': 'sister-dear_485/index.html'}
+{'price': '£40.20', 'title': 'Sister Dear', 'url': 'sister-dear_485/index.html'}
+2025-08-11 21:42:22 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£52.87',
+ 'title': 'Shrunken Treasures: Literary Classics, Short, Sweet, and Silly',
+ 'url': 'shrunken-treasures-literary-classics-short-sweet-and-silly_484/index.html'}
+{'price': '£52.87',
+ 'title': 'Shrunken Treasures: Literary Classics, Short, Sweet, and Silly',
+ 'url': 'shrunken-treasures-literary-classics-short-sweet-and-silly_484/index.html'}
+2025-08-11 21:42:22 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£51.74',
+ 'title': 'Rich Dad, Poor Dad',
+ 'url': 'rich-dad-poor-dad_483/index.html'}
+{'price': '£51.74',
+ 'title': 'Rich Dad, Poor Dad',
+ 'url': 'rich-dad-poor-dad_483/index.html'}
+2025-08-11 21:42:22 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£34.41',
+ 'title': 'Raymie Nightingale',
+ 'url': 'raymie-nightingale_482/index.html'}
+{'price': '£34.41',
+ 'title': 'Raymie Nightingale',
+ 'url': 'raymie-nightingale_482/index.html'}
+2025-08-11 21:42:22 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£32.38',
+ 'title': 'Playing from the Heart',
+ 'url': 'playing-from-the-heart_481/index.html'}
+{'price': '£32.38',
+ 'title': 'Playing from the Heart',
+ 'url': 'playing-from-the-heart_481/index.html'}
+2025-08-11 21:42:27 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£50.35',
+ 'title': 'Nightstruck: A Novel',
+ 'url': 'nightstruck-a-novel_480/index.html'}
+{'price': '£50.35',
+ 'title': 'Nightstruck: A Novel',
+ 'url': 'nightstruck-a-novel_480/index.html'}
+2025-08-11 21:42:27 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£11.38',
+ 'title': 'Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based '
+          'Recipes--All Under 300 Calories',
+ 'url': 'naturally-lean-125-nourishing-gluten-free-plant-based-recipes-all-under-300-calories_479/index.html'}
+{'price': '£11.38',
+ 'title': 'Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based '
+          'Recipes--All Under 300 Calories',
+ 'url': 'naturally-lean-125-nourishing-gluten-free-plant-based-recipes-all-under-300-calories_479/index.html'}
+2025-08-11 21:42:27 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£43.58', 'title': 'Meternity', 'url': 'meternity_478/index.html'}
+{'price': '£43.58', 'title': 'Meternity', 'url': 'meternity_478/index.html'}
+2025-08-11 21:42:27 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£49.67',
+ 'title': 'Memoirs of a Geisha',
+ 'url': 'memoirs-of-a-geisha_477/index.html'}
+{'price': '£49.67',
+ 'title': 'Memoirs of a Geisha',
+ 'url': 'memoirs-of-a-geisha_477/index.html'}
+2025-08-11 21:42:27 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£28.77',
+ 'title': 'Like Never Before (Walker Family #2)',
+ 'url': 'like-never-before-walker-family-2_476/index.html'}
+{'price': '£28.77',
+ 'title': 'Like Never Before (Walker Family #2)',
+ 'url': 'like-never-before-walker-family-2_476/index.html'}
+2025-08-11 21:42:27 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£13.22', 'title': 'Life of Pi', 'url': 'life-of-pi_475/index.html'}
+{'price': '£13.22', 'title': 'Life of Pi', 'url': 'life-of-pi_475/index.html'}
+2025-08-11 21:42:27 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£51.17',
+ 'title': 'Leave This Song Behind: Teen Poetry at Its Best',
+ 'url': 'leave-this-song-behind-teen-poetry-at-its-best_474/index.html'}
+{'price': '£51.17',
+ 'title': 'Leave This Song Behind: Teen Poetry at Its Best',
+ 'url': 'leave-this-song-behind-teen-poetry-at-its-best_474/index.html'}
+2025-08-11 21:42:27 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£39.61',
+ 'title': "King's Folly (The Kinsman Chronicles #1)",
+ 'url': 'kings-folly-the-kinsman-chronicles-1_473/index.html'}
+{'price': '£39.61',
+ 'title': "King's Folly (The Kinsman Chronicles #1)",
+ 'url': 'kings-folly-the-kinsman-chronicles-1_473/index.html'}
+2025-08-11 21:42:27 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£57.43', 'title': 'John Adams', 'url': 'john-adams_472/index.html'}
+{'price': '£57.43', 'title': 'John Adams', 'url': 'john-adams_472/index.html'}
+2025-08-11 21:42:27 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£46.01',
+ 'title': 'How to Cook Everything Vegetarian: Simple Meatless Recipes for '
+          'Great Food (How to Cook Everything)',
+ 'url': 'how-to-cook-everything-vegetarian-simple-meatless-recipes-for-great-food-how-to-cook-everything_471/index.html'}
+{'price': '£46.01',
+ 'title': 'How to Cook Everything Vegetarian: Simple Meatless Recipes for '
+          'Great Food (How to Cook Everything)',
+ 'url': 'how-to-cook-everything-vegetarian-simple-meatless-recipes-for-great-food-how-to-cook-everything_471/index.html'}
+2025-08-11 21:42:27 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£28.25',
+ 'title': 'How to Be a Domestic Goddess: Baking and the Art of Comfort Cooking',
+ 'url': 'how-to-be-a-domestic-goddess-baking-and-the-art-of-comfort-cooking_470/index.html'}
+{'price': '£28.25',
+ 'title': 'How to Be a Domestic Goddess: Baking and the Art of Comfort Cooking',
+ 'url': 'how-to-be-a-domestic-goddess-baking-and-the-art-of-comfort-cooking_470/index.html'}
+2025-08-11 21:42:27 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£37.05',
+ 'title': 'Good in Bed (Cannie Shapiro #1)',
+ 'url': 'good-in-bed-cannie-shapiro-1_469/index.html'}
+{'price': '£37.05',
+ 'title': 'Good in Bed (Cannie Shapiro #1)',
+ 'url': 'good-in-bed-cannie-shapiro-1_469/index.html'}
+2025-08-11 21:42:27 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£19.57',
+ 'title': 'Fruits Basket, Vol. 7 (Fruits Basket #7)',
+ 'url': 'fruits-basket-vol-7-fruits-basket-7_468/index.html'}
+{'price': '£19.57',
+ 'title': 'Fruits Basket, Vol. 7 (Fruits Basket #7)',
+ 'url': 'fruits-basket-vol-7-fruits-basket-7_468/index.html'}
+2025-08-11 21:42:27 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£45.13',
+ 'title': 'For the Love: Fighting for Grace in a World of Impossible Standards',
+ 'url': 'for-the-love-fighting-for-grace-in-a-world-of-impossible-standards_467/index.html'}
+{'price': '£45.13',
+ 'title': 'For the Love: Fighting for Grace in a World of Impossible Standards',
+ 'url': 'for-the-love-fighting-for-grace-in-a-world-of-impossible-standards_467/index.html'}
+2025-08-11 21:42:27 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£46.64',
+ 'title': 'Finding God in the Ruins: How God Redeems Pain',
+ 'url': 'finding-god-in-the-ruins-how-god-redeems-pain_466/index.html'}
+{'price': '£46.64',
+ 'title': 'Finding God in the Ruins: How God Redeems Pain',
+ 'url': 'finding-god-in-the-ruins-how-god-redeems-pain_466/index.html'}
+2025-08-11 21:42:27 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£12.16',
+ 'title': 'Every Heart a Doorway (Every Heart A Doorway #1)',
+ 'url': 'every-heart-a-doorway-every-heart-a-doorway-1_465/index.html'}
+{'price': '£12.16',
+ 'title': 'Every Heart a Doorway (Every Heart A Doorway #1)',
+ 'url': 'every-heart-a-doorway-every-heart-a-doorway-1_465/index.html'}
+2025-08-11 21:42:27 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£20.89',
+ 'title': 'Delivering the Truth (Quaker Midwife Mystery #1)',
+ 'url': 'delivering-the-truth-quaker-midwife-mystery-1_464/index.html'}
+{'price': '£20.89',
+ 'title': 'Delivering the Truth (Quaker Midwife Mystery #1)',
+ 'url': 'delivering-the-truth-quaker-midwife-mystery-1_464/index.html'}
+2025-08-11 21:42:27 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£17.97',
+ 'title': 'Counted With the Stars (Out from Egypt #1)',
+ 'url': 'counted-with-the-stars-out-from-egypt-1_463/index.html'}
+{'price': '£17.97',
+ 'title': 'Counted With the Stars (Out from Egypt #1)',
+ 'url': 'counted-with-the-stars-out-from-egypt-1_463/index.html'}
+2025-08-11 21:42:27 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£52.60',
+ 'title': 'Chronicles, Vol. 1',
+ 'url': 'chronicles-vol-1_462/index.html'}
+{'price': '£52.60',
+ 'title': 'Chronicles, Vol. 1',
+ 'url': 'chronicles-vol-1_462/index.html'}
+2025-08-11 21:42:27 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£25.77',
+ 'title': 'Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality',
+ 'url': 'blue-like-jazz-nonreligious-thoughts-on-christian-spirituality_461/index.html'}
+{'price': '£25.77',
+ 'title': 'Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality',
+ 'url': 'blue-like-jazz-nonreligious-thoughts-on-christian-spirituality_461/index.html'}
+2025-08-11 21:42:32 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£48.19',
+ 'title': 'Benjamin Franklin: An American Life',
+ 'url': 'benjamin-franklin-an-american-life_460/index.html'}
+{'price': '£48.19',
+ 'title': 'Benjamin Franklin: An American Life',
+ 'url': 'benjamin-franklin-an-american-life_460/index.html'}
+2025-08-11 21:42:32 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£29.93',
+ 'title': 'At The Existentialist Café: Freedom, Being, and apricot cocktails '
+          'with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin '
+          'Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and '
+          'others',
+ 'url': 'at-the-existentialist-cafe-freedom-being-and-apricot-cocktails-with-jean-paul-sartre-simone-de-beauvoir-albert-camus-martin-heidegger-edmund-husserl-karl-jaspers-maurice-merleau-ponty-and-others_459/index.html'}
+{'price': '£29.93',
+ 'title': 'At The Existentialist Café: Freedom, Being, and apricot cocktails '
+          'with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin '
+          'Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and '
+          'others',
+ 'url': 'at-the-existentialist-cafe-freedom-being-and-apricot-cocktails-with-jean-paul-sartre-simone-de-beauvoir-albert-camus-martin-heidegger-edmund-husserl-karl-jaspers-maurice-merleau-ponty-and-others_459/index.html'}
+2025-08-11 21:42:32 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£44.34',
+ 'title': 'A Summer In Europe',
+ 'url': 'a-summer-in-europe_458/index.html'}
+{'price': '£44.34',
+ 'title': 'A Summer In Europe',
+ 'url': 'a-summer-in-europe_458/index.html'}
+2025-08-11 21:42:32 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£52.40',
+ 'title': 'A Short History of Nearly Everything',
+ 'url': 'a-short-history-of-nearly-everything_457/index.html'}
+{'price': '£52.40',
+ 'title': 'A Short History of Nearly Everything',
+ 'url': 'a-short-history-of-nearly-everything_457/index.html'}
+2025-08-11 21:42:32 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£44.81',
+ 'title': 'A Gathering of Shadows (Shades of Magic #2)',
+ 'url': 'a-gathering-of-shadows-shades-of-magic-2_456/index.html'}
+{'price': '£44.81',
+ 'title': 'A Gathering of Shadows (Shades of Magic #2)',
+ 'url': 'a-gathering-of-shadows-shades-of-magic-2_456/index.html'}
+2025-08-11 21:42:32 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£57.84',
+ 'title': 'The Sound Of Love',
+ 'url': 'the-sound-of-love_455/index.html'}
+{'price': '£57.84',
+ 'title': 'The Sound Of Love',
+ 'url': 'the-sound-of-love_455/index.html'}
+2025-08-11 21:42:32 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£39.67',
+ 'title': 'The Rise and Fall of the Third Reich: A History of Nazi Germany',
+ 'url': 'the-rise-and-fall-of-the-third-reich-a-history-of-nazi-germany_454/index.html'}
+{'price': '£39.67',
+ 'title': 'The Rise and Fall of the Third Reich: A History of Nazi Germany',
+ 'url': 'the-rise-and-fall-of-the-third-reich-a-history-of-nazi-germany_454/index.html'}
+2025-08-11 21:42:32 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£55.02',
+ 'title': 'The Perks of Being a Wallflower',
+ 'url': 'the-perks-of-being-a-wallflower_453/index.html'}
+{'price': '£55.02',
+ 'title': 'The Perks of Being a Wallflower',
+ 'url': 'the-perks-of-being-a-wallflower_453/index.html'}
+2025-08-11 21:42:32 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£24.80',
+ 'title': 'The Mysterious Affair at Styles (Hercule Poirot #1)',
+ 'url': 'the-mysterious-affair-at-styles-hercule-poirot-1_452/index.html'}
+{'price': '£24.80',
+ 'title': 'The Mysterious Affair at Styles (Hercule Poirot #1)',
+ 'url': 'the-mysterious-affair-at-styles-hercule-poirot-1_452/index.html'}
+2025-08-11 21:42:32 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£59.45',
+ 'title': 'The Man Who Mistook His Wife for a Hat and Other Clinical Tales',
+ 'url': 'the-man-who-mistook-his-wife-for-a-hat-and-other-clinical-tales_451/index.html'}
+{'price': '£59.45',
+ 'title': 'The Man Who Mistook His Wife for a Hat and Other Clinical Tales',
+ 'url': 'the-man-who-mistook-his-wife-for-a-hat-and-other-clinical-tales_451/index.html'}
+2025-08-11 21:42:32 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£31.58',
+ 'title': 'The Makings of a Fatherless Child',
+ 'url': 'the-makings-of-a-fatherless-child_450/index.html'}
+{'price': '£31.58',
+ 'title': 'The Makings of a Fatherless Child',
+ 'url': 'the-makings-of-a-fatherless-child_450/index.html'}
+2025-08-11 21:42:32 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£43.27',
+ 'title': 'The Joy of Cooking',
+ 'url': 'the-joy-of-cooking_449/index.html'}
+{'price': '£43.27',
+ 'title': 'The Joy of Cooking',
+ 'url': 'the-joy-of-cooking_449/index.html'}
+2025-08-11 21:42:32 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£37.34',
+ 'title': 'The Invention of Wings',
+ 'url': 'the-invention-of-wings_448/index.html'}
+{'price': '£37.34',
+ 'title': 'The Invention of Wings',
+ 'url': 'the-invention-of-wings_448/index.html'}
+2025-08-11 21:42:32 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£17.80',
+ 'title': 'The Hobbit (Middle-Earth Universe)',
+ 'url': 'the-hobbit-middle-earth-universe_447/index.html'}
+{'price': '£17.80',
+ 'title': 'The Hobbit (Middle-Earth Universe)',
+ 'url': 'the-hobbit-middle-earth-universe_447/index.html'}
+2025-08-11 21:42:32 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£30.54',
+ 'title': 'The Great Railway Bazaar',
+ 'url': 'the-great-railway-bazaar_446/index.html'}
+{'price': '£30.54',
+ 'title': 'The Great Railway Bazaar',
+ 'url': 'the-great-railway-bazaar_446/index.html'}
+2025-08-11 21:42:32 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£18.77',
+ 'title': 'The Golden Compass (His Dark Materials #1)',
+ 'url': 'the-golden-compass-his-dark-materials-1_445/index.html'}
+{'price': '£18.77',
+ 'title': 'The Golden Compass (His Dark Materials #1)',
+ 'url': 'the-golden-compass-his-dark-materials-1_445/index.html'}
+2025-08-11 21:42:32 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£46.85',
+ 'title': 'The God Delusion',
+ 'url': 'the-god-delusion_444/index.html'}
+{'price': '£46.85',
+ 'title': 'The God Delusion',
+ 'url': 'the-god-delusion_444/index.html'}
+2025-08-11 21:42:32 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£15.79',
+ 'title': 'The Girl You Left Behind (The Girl You Left Behind #1)',
+ 'url': 'the-girl-you-left-behind-the-girl-you-left-behind-1_443/index.html'}
+{'price': '£15.79',
+ 'title': 'The Girl You Left Behind (The Girl You Left Behind #1)',
+ 'url': 'the-girl-you-left-behind-the-girl-you-left-behind-1_443/index.html'}
+2025-08-11 21:42:32 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£10.27',
+ 'title': 'The Fellowship of the Ring (The Lord of the Rings #1)',
+ 'url': 'the-fellowship-of-the-ring-the-lord-of-the-rings-1_442/index.html'}
+{'price': '£10.27',
+ 'title': 'The Fellowship of the Ring (The Lord of the Rings #1)',
+ 'url': 'the-fellowship-of-the-ring-the-lord-of-the-rings-1_442/index.html'}
+2025-08-11 21:42:32 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£15.42',
+ 'title': 'The Collected Poems of W.B. Yeats (The Collected Works of W.B. '
+          'Yeats #1)',
+ 'url': 'the-collected-poems-of-wb-yeats-the-collected-works-of-wb-yeats-1_441/index.html'}
+{'price': '£15.42',
+ 'title': 'The Collected Poems of W.B. Yeats (The Collected Works of W.B. '
+          'Yeats #1)',
+ 'url': 'the-collected-poems-of-wb-yeats-the-collected-works-of-wb-yeats-1_441/index.html'}
+2025-08-11 21:42:38 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£59.92',
+ 'title': 'The Barefoot Contessa Cookbook',
+ 'url': 'the-barefoot-contessa-cookbook_440/index.html'}
+{'price': '£59.92',
+ 'title': 'The Barefoot Contessa Cookbook',
+ 'url': 'the-barefoot-contessa-cookbook_440/index.html'}
+2025-08-11 21:42:38 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£50.96',
+ 'title': "Tell the Wolves I'm Home",
+ 'url': 'tell-the-wolves-im-home_439/index.html'}
+{'price': '£50.96',
+ 'title': "Tell the Wolves I'm Home",
+ 'url': 'tell-the-wolves-im-home_439/index.html'}
+2025-08-11 21:42:38 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£30.60',
+ 'title': 'Ship Leaves Harbor: Essays on Travel by a Recovering Journeyman',
+ 'url': 'ship-leaves-harbor-essays-on-travel-by-a-recovering-journeyman_438/index.html'}
+{'price': '£30.60',
+ 'title': 'Ship Leaves Harbor: Essays on Travel by a Recovering Journeyman',
+ 'url': 'ship-leaves-harbor-essays-on-travel-by-a-recovering-journeyman_438/index.html'}
+2025-08-11 21:42:38 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£19.27',
+ 'title': 'Pride and Prejudice',
+ 'url': 'pride-and-prejudice_437/index.html'}
+{'price': '£19.27',
+ 'title': 'Pride and Prejudice',
+ 'url': 'pride-and-prejudice_437/index.html'}
+2025-08-11 21:42:38 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£46.58',
+ 'title': 'Musicophilia: Tales of Music and the Brain',
+ 'url': 'musicophilia-tales-of-music-and-the-brain_436/index.html'}
+{'price': '£46.58',
+ 'title': 'Musicophilia: Tales of Music and the Brain',
+ 'url': 'musicophilia-tales-of-music-and-the-brain_436/index.html'}
+2025-08-11 21:42:38 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£48.51',
+ 'title': 'Mere Christianity',
+ 'url': 'mere-christianity_435/index.html'}
+{'price': '£48.51',
+ 'title': 'Mere Christianity',
+ 'url': 'mere-christianity_435/index.html'}
+2025-08-11 21:42:38 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£19.02',
+ 'title': 'Me Before You (Me Before You #1)',
+ 'url': 'me-before-you-me-before-you-1_434/index.html'}
+{'price': '£19.02',
+ 'title': 'Me Before You (Me Before You #1)',
+ 'url': 'me-before-you-me-before-you-1_434/index.html'}
+2025-08-11 21:42:38 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£38.38',
+ 'title': 'In the Woods (Dublin Murder Squad #1)',
+ 'url': 'in-the-woods-dublin-murder-squad-1_433/index.html'}
+{'price': '£38.38',
+ 'title': 'In the Woods (Dublin Murder Squad #1)',
+ 'url': 'in-the-woods-dublin-murder-squad-1_433/index.html'}
+2025-08-11 21:42:38 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£49.98',
+ 'title': 'In Cold Blood',
+ 'url': 'in-cold-blood_432/index.html'}
+{'price': '£49.98',
+ 'title': 'In Cold Blood',
+ 'url': 'in-cold-blood_432/index.html'}
+2025-08-11 21:42:38 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£46.49',
+ 'title': 'How to Stop Worrying and Start Living',
+ 'url': 'how-to-stop-worrying-and-start-living_431/index.html'}
+{'price': '£46.49',
+ 'title': 'How to Stop Worrying and Start Living',
+ 'url': 'how-to-stop-worrying-and-start-living_431/index.html'}
+2025-08-11 21:42:38 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£18.32',
+ 'title': 'Give It Back',
+ 'url': 'give-it-back_430/index.html'}
+{'price': '£18.32',
+ 'title': 'Give It Back',
+ 'url': 'give-it-back_430/index.html'}
+2025-08-11 21:42:38 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£42.14',
+ 'title': 'Girl, Interrupted',
+ 'url': 'girl-interrupted_429/index.html'}
+{'price': '£42.14',
+ 'title': 'Girl, Interrupted',
+ 'url': 'girl-interrupted_429/index.html'}
+2025-08-11 21:42:38 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£56.59',
+ 'title': 'Fun Home: A Family Tragicomic',
+ 'url': 'fun-home-a-family-tragicomic_428/index.html'}
+{'price': '£56.59',
+ 'title': 'Fun Home: A Family Tragicomic',
+ 'url': 'fun-home-a-family-tragicomic_428/index.html'}
+2025-08-11 21:42:38 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£20.96',
+ 'title': 'Fruits Basket, Vol. 6 (Fruits Basket #6)',
+ 'url': 'fruits-basket-vol-6-fruits-basket-6_427/index.html'}
+{'price': '£20.96',
+ 'title': 'Fruits Basket, Vol. 6 (Fruits Basket #6)',
+ 'url': 'fruits-basket-vol-6-fruits-basket-6_427/index.html'}
+2025-08-11 21:42:38 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£40.32',
+ 'title': 'Deception Point',
+ 'url': 'deception-point_426/index.html'}
+{'price': '£40.32',
+ 'title': 'Deception Point',
+ 'url': 'deception-point_426/index.html'}
+2025-08-11 21:42:38 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£36.39',
+ 'title': 'Death Note, Vol. 6: Give-and-Take (Death Note #6)',
+ 'url': 'death-note-vol-6-give-and-take-death-note-6_425/index.html'}
+{'price': '£36.39',
+ 'title': 'Death Note, Vol. 6: Give-and-Take (Death Note #6)',
+ 'url': 'death-note-vol-6-give-and-take-death-note-6_425/index.html'}
+2025-08-11 21:42:38 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£58.55',
+ 'title': 'Catherine the Great: Portrait of a Woman',
+ 'url': 'catherine-the-great-portrait-of-a-woman_424/index.html'}
+{'price': '£58.55',
+ 'title': 'Catherine the Great: Portrait of a Woman',
+ 'url': 'catherine-the-great-portrait-of-a-woman_424/index.html'}
+2025-08-11 21:42:38 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£39.61',
+ 'title': 'Better Homes and Gardens New Cook Book',
+ 'url': 'better-homes-and-gardens-new-cook-book_423/index.html'}
+{'price': '£39.61',
+ 'title': 'Better Homes and Gardens New Cook Book',
+ 'url': 'better-homes-and-gardens-new-cook-book_423/index.html'}
+2025-08-11 21:42:38 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£21.30',
+ 'title': 'An Unquiet Mind: A Memoir of Moods and Madness',
+ 'url': 'an-unquiet-mind-a-memoir-of-moods-and-madness_422/index.html'}
+{'price': '£21.30',
+ 'title': 'An Unquiet Mind: A Memoir of Moods and Madness',
+ 'url': 'an-unquiet-mind-a-memoir-of-moods-and-madness_422/index.html'}
+2025-08-11 21:42:38 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£56.88',
+ 'title': 'A Year in Provence (Provence #1)',
+ 'url': 'a-year-in-provence-provence-1_421/index.html'}
+{'price': '£56.88',
+ 'title': 'A Year in Provence (Provence #1)',
+ 'url': 'a-year-in-provence-provence-1_421/index.html'}
+2025-08-11 21:42:44 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£32.97',
+ 'title': 'World Without End (The Pillars of the Earth #2)',
+ 'url': 'world-without-end-the-pillars-of-the-earth-2_420/index.html'}
+{'price': '£32.97',
+ 'title': 'World Without End (The Pillars of the Earth #2)',
+ 'url': 'world-without-end-the-pillars-of-the-earth-2_420/index.html'}
+2025-08-11 21:42:44 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£47.31',
+ 'title': 'Will Grayson, Will Grayson (Will Grayson, Will Grayson)',
+ 'url': 'will-grayson-will-grayson-will-grayson-will-grayson_419/index.html'}
+{'price': '£47.31',
+ 'title': 'Will Grayson, Will Grayson (Will Grayson, Will Grayson)',
+ 'url': 'will-grayson-will-grayson-will-grayson-will-grayson_419/index.html'}
+2025-08-11 21:42:44 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£48.67',
+ 'title': 'Why Save the Bankers?: And Other Essays on Our Economic and '
+          'Political Crisis',
+ 'url': 'why-save-the-bankers-and-other-essays-on-our-economic-and-political-crisis_418/index.html'}
+{'price': '£48.67',
+ 'title': 'Why Save the Bankers?: And Other Essays on Our Economic and '
+          'Political Crisis',
+ 'url': 'why-save-the-bankers-and-other-essays-on-our-economic-and-political-crisis_418/index.html'}
+2025-08-11 21:42:44 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£41.73',
+ 'title': 'Where She Went (If I Stay #2)',
+ 'url': 'where-she-went-if-i-stay-2_417/index.html'}
+{'price': '£41.73',
+ 'title': 'Where She Went (If I Stay #2)',
+ 'url': 'where-she-went-if-i-stay-2_417/index.html'}
+2025-08-11 21:42:44 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£53.68',
+ 'title': 'What If?: Serious Scientific Answers to Absurd Hypothetical '
+          'Questions',
+ 'url': 'what-if-serious-scientific-answers-to-absurd-hypothetical-questions_416/index.html'}
+{'price': '£53.68',
+ 'title': 'What If?: Serious Scientific Answers to Absurd Hypothetical '
+          'Questions',
+ 'url': 'what-if-serious-scientific-answers-to-absurd-hypothetical-questions_416/index.html'}
+2025-08-11 21:42:44 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£14.64', 'title': 'Two Summers', 'url': 'two-summers_415/index.html'}
+{'price': '£14.64', 'title': 'Two Summers', 'url': 'two-summers_415/index.html'}
+2025-08-11 21:42:44 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£38.40',
+ 'title': 'This Is Your Brain on Music: The Science of a Human Obsession',
+ 'url': 'this-is-your-brain-on-music-the-science-of-a-human-obsession_414/index.html'}
+{'price': '£38.40',
+ 'title': 'This Is Your Brain on Music: The Science of a Human Obsession',
+ 'url': 'this-is-your-brain-on-music-the-science-of-a-human-obsession_414/index.html'}
+2025-08-11 21:42:44 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£15.08',
+ 'title': 'The Secret Garden',
+ 'url': 'the-secret-garden_413/index.html'}
+{'price': '£15.08',
+ 'title': 'The Secret Garden',
+ 'url': 'the-secret-garden_413/index.html'}
+2025-08-11 21:42:44 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£30.57',
+ 'title': 'The Raven King (The Raven Cycle #4)',
+ 'url': 'the-raven-king-the-raven-cycle-4_412/index.html'}
+{'price': '£30.57',
+ 'title': 'The Raven King (The Raven Cycle #4)',
+ 'url': 'the-raven-king-the-raven-cycle-4_412/index.html'}
+2025-08-11 21:42:44 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£57.74',
+ 'title': 'The Raven Boys (The Raven Cycle #1)',
+ 'url': 'the-raven-boys-the-raven-cycle-1_411/index.html'}
+{'price': '£57.74',
+ 'title': 'The Raven Boys (The Raven Cycle #1)',
+ 'url': 'the-raven-boys-the-raven-cycle-1_411/index.html'}
+2025-08-11 21:42:44 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£11.05',
+ 'title': 'The Power Greens Cookbook: 140 Delicious Superfood Recipes',
+ 'url': 'the-power-greens-cookbook-140-delicious-superfood-recipes_410/index.html'}
+{'price': '£11.05',
+ 'title': 'The Power Greens Cookbook: 140 Delicious Superfood Recipes',
+ 'url': 'the-power-greens-cookbook-140-delicious-superfood-recipes_410/index.html'}
+2025-08-11 21:42:44 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£28.58',
+ 'title': 'The Metamorphosis',
+ 'url': 'the-metamorphosis_409/index.html'}
+{'price': '£28.58',
+ 'title': 'The Metamorphosis',
+ 'url': 'the-metamorphosis_409/index.html'}
+2025-08-11 21:42:44 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£42.91',
+ 'title': "The Mathews Men: Seven Brothers and the War Against Hitler's "
+          'U-boats',
+ 'url': 'the-mathews-men-seven-brothers-and-the-war-against-hitlers-u-boats_408/index.html'}
+{'price': '£42.91',
+ 'title': "The Mathews Men: Seven Brothers and the War Against Hitler's "
+          'U-boats',
+ 'url': 'the-mathews-men-seven-brothers-and-the-war-against-hitlers-u-boats_408/index.html'}
+2025-08-11 21:42:44 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£24.73',
+ 'title': 'The Little Paris Bookshop',
+ 'url': 'the-little-paris-bookshop_407/index.html'}
+{'price': '£24.73',
+ 'title': 'The Little Paris Bookshop',
+ 'url': 'the-little-paris-bookshop_407/index.html'}
+2025-08-11 21:42:44 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£55.91',
+ 'title': 'The Hiding Place',
+ 'url': 'the-hiding-place_406/index.html'}
+{'price': '£55.91',
+ 'title': 'The Hiding Place',
+ 'url': 'the-hiding-place_406/index.html'}
+2025-08-11 21:42:44 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£13.76',
+ 'title': 'The Grand Design',
+ 'url': 'the-grand-design_405/index.html'}
+{'price': '£13.76',
+ 'title': 'The Grand Design',
+ 'url': 'the-grand-design_405/index.html'}
+2025-08-11 21:42:44 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£45.56', 'title': 'The Firm', 'url': 'the-firm_404/index.html'}
+{'price': '£45.56', 'title': 'The Firm', 'url': 'the-firm_404/index.html'}
+2025-08-11 21:42:44 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£47.22',
+ 'title': 'The Fault in Our Stars',
+ 'url': 'the-fault-in-our-stars_403/index.html'}
+{'price': '£47.22',
+ 'title': 'The Fault in Our Stars',
+ 'url': 'the-fault-in-our-stars_403/index.html'}
+2025-08-11 21:42:44 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£56.00',
+ 'title': 'The False Prince (The Ascendance Trilogy #1)',
+ 'url': 'the-false-prince-the-ascendance-trilogy-1_402/index.html'}
+{'price': '£56.00',
+ 'title': 'The False Prince (The Ascendance Trilogy #1)',
+ 'url': 'the-false-prince-the-ascendance-trilogy-1_402/index.html'}
+2025-08-11 21:42:44 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£44.58',
+ 'title': 'The Expatriates',
+ 'url': 'the-expatriates_401/index.html'}
+{'price': '£44.58',
+ 'title': 'The Expatriates',
+ 'url': 'the-expatriates_401/index.html'}
+2025-08-11 21:42:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£34.50',
+ 'title': 'The Dream Thieves (The Raven Cycle #2)',
+ 'url': 'the-dream-thieves-the-raven-cycle-2_400/index.html'}
+{'price': '£34.50',
+ 'title': 'The Dream Thieves (The Raven Cycle #2)',
+ 'url': 'the-dream-thieves-the-raven-cycle-2_400/index.html'}
+2025-08-11 21:42:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£11.33',
+ 'title': 'The Darkest Corners',
+ 'url': 'the-darkest-corners_399/index.html'}
+{'price': '£11.33',
+ 'title': 'The Darkest Corners',
+ 'url': 'the-darkest-corners_399/index.html'}
+2025-08-11 21:42:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£38.77',
+ 'title': 'The Crossover',
+ 'url': 'the-crossover_398/index.html'}
+{'price': '£38.77',
+ 'title': 'The Crossover',
+ 'url': 'the-crossover_398/index.html'}
+2025-08-11 21:42:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£11.83',
+ 'title': 'The 5th Wave (The 5th Wave #1)',
+ 'url': 'the-5th-wave-the-5th-wave-1_397/index.html'}
+{'price': '£11.83',
+ 'title': 'The 5th Wave (The 5th Wave #1)',
+ 'url': 'the-5th-wave-the-5th-wave-1_397/index.html'}
+2025-08-11 21:42:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£45.51',
+ 'title': 'Tell the Wind and Fire',
+ 'url': 'tell-the-wind-and-fire_396/index.html'}
+{'price': '£45.51',
+ 'title': 'Tell the Wind and Fire',
+ 'url': 'tell-the-wind-and-fire_396/index.html'}
+2025-08-11 21:42:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£41.81',
+ 'title': 'Tell Me Three Things',
+ 'url': 'tell-me-three-things_395/index.html'}
+{'price': '£41.81',
+ 'title': 'Tell Me Three Things',
+ 'url': 'tell-me-three-things_395/index.html'}
+2025-08-11 21:42:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£25.15',
+ 'title': "Talking to Girls About Duran Duran: One Young Man's Quest for True "
+          'Love and a Cooler Haircut',
+ 'url': 'talking-to-girls-about-duran-duran-one-young-mans-quest-for-true-love-and-a-cooler-haircut_394/index.html'}
+{'price': '£25.15',
+ 'title': "Talking to Girls About Duran Duran: One Young Man's Quest for True "
+          'Love and a Cooler Haircut',
+ 'url': 'talking-to-girls-about-duran-duran-one-young-mans-quest-for-true-love-and-a-cooler-haircut_394/index.html'}
+2025-08-11 21:42:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£34.22', 'title': 'Siddhartha', 'url': 'siddhartha_393/index.html'}
+{'price': '£34.22', 'title': 'Siddhartha', 'url': 'siddhartha_393/index.html'}
+2025-08-11 21:42:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£16.23',
+ 'title': 'Shiver (The Wolves of Mercy Falls #1)',
+ 'url': 'shiver-the-wolves-of-mercy-falls-1_392/index.html'}
+{'price': '£16.23',
+ 'title': 'Shiver (The Wolves of Mercy Falls #1)',
+ 'url': 'shiver-the-wolves-of-mercy-falls-1_392/index.html'}
+2025-08-11 21:42:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£11.48',
+ 'title': 'Remember Me?',
+ 'url': 'remember-me_391/index.html'}
+{'price': '£11.48',
+ 'title': 'Remember Me?',
+ 'url': 'remember-me_391/index.html'}
+2025-08-11 21:42:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£23.37',
+ 'title': 'Red Dragon (Hannibal Lecter #1)',
+ 'url': 'red-dragon-hannibal-lecter-1_390/index.html'}
+{'price': '£23.37',
+ 'title': 'Red Dragon (Hannibal Lecter #1)',
+ 'url': 'red-dragon-hannibal-lecter-1_390/index.html'}
+2025-08-11 21:42:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£16.28',
+ 'title': 'Peak: Secrets from the New Science of Expertise',
+ 'url': 'peak-secrets-from-the-new-science-of-expertise_389/index.html'}
+{'price': '£16.28',
+ 'title': 'Peak: Secrets from the New Science of Expertise',
+ 'url': 'peak-secrets-from-the-new-science-of-expertise_389/index.html'}
+2025-08-11 21:42:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£31.63',
+ 'title': 'My Mother Was Nuts',
+ 'url': 'my-mother-was-nuts_388/index.html'}
+{'price': '£31.63',
+ 'title': 'My Mother Was Nuts',
+ 'url': 'my-mother-was-nuts_388/index.html'}
+2025-08-11 21:42:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£24.91',
+ 'title': 'Mexican Today: New and Rediscovered Recipes for Contemporary '
+          'Kitchens',
+ 'url': 'mexican-today-new-and-rediscovered-recipes-for-contemporary-kitchens_387/index.html'}
+{'price': '£24.91',
+ 'title': 'Mexican Today: New and Rediscovered Recipes for Contemporary '
+          'Kitchens',
+ 'url': 'mexican-today-new-and-rediscovered-recipes-for-contemporary-kitchens_387/index.html'}
+2025-08-11 21:42:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£22.54',
+ 'title': 'Maybe Something Beautiful: How Art Transformed a Neighborhood',
+ 'url': 'maybe-something-beautiful-how-art-transformed-a-neighborhood_386/index.html'}
+{'price': '£22.54',
+ 'title': 'Maybe Something Beautiful: How Art Transformed a Neighborhood',
+ 'url': 'maybe-something-beautiful-how-art-transformed-a-neighborhood_386/index.html'}
+2025-08-11 21:42:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£23.63',
+ 'title': 'Lola and the Boy Next Door (Anna and the French Kiss #2)',
+ 'url': 'lola-and-the-boy-next-door-anna-and-the-french-kiss-2_385/index.html'}
+{'price': '£23.63',
+ 'title': 'Lola and the Boy Next Door (Anna and the French Kiss #2)',
+ 'url': 'lola-and-the-boy-next-door-anna-and-the-french-kiss-2_385/index.html'}
+2025-08-11 21:42:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£13.12',
+ 'title': 'Logan Kade (Fallen Crest High #5.5)',
+ 'url': 'logan-kade-fallen-crest-high-55_384/index.html'}
+{'price': '£13.12',
+ 'title': 'Logan Kade (Fallen Crest High #5.5)',
+ 'url': 'logan-kade-fallen-crest-high-55_384/index.html'}
+2025-08-11 21:42:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£59.98',
+ 'title': 'Last One Home (New Beginnings #1)',
+ 'url': 'last-one-home-new-beginnings-1_383/index.html'}
+{'price': '£59.98',
+ 'title': 'Last One Home (New Beginnings #1)',
+ 'url': 'last-one-home-new-beginnings-1_383/index.html'}
+2025-08-11 21:42:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£31.49',
+ 'title': 'Killing Floor (Jack Reacher #1)',
+ 'url': 'killing-floor-jack-reacher-1_382/index.html'}
+{'price': '£31.49',
+ 'title': 'Killing Floor (Jack Reacher #1)',
+ 'url': 'killing-floor-jack-reacher-1_382/index.html'}
+2025-08-11 21:42:48 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£15.52',
+ 'title': 'Kill the Boy Band',
+ 'url': 'kill-the-boy-band_381/index.html'}
+{'price': '£15.52',
+ 'title': 'Kill the Boy Band',
+ 'url': 'kill-the-boy-band_381/index.html'}
+2025-08-11 21:42:53 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£48.13',
+ 'title': 'Isla and the Happily Ever After (Anna and the French Kiss #3)',
+ 'url': 'isla-and-the-happily-ever-after-anna-and-the-french-kiss-3_380/index.html'}
+{'price': '£48.13',
+ 'title': 'Isla and the Happily Ever After (Anna and the French Kiss #3)',
+ 'url': 'isla-and-the-happily-ever-after-anna-and-the-french-kiss-3_380/index.html'}
+2025-08-11 21:42:53 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£38.13',
+ 'title': 'If I Stay (If I Stay #1)',
+ 'url': 'if-i-stay-if-i-stay-1_379/index.html'}
+{'price': '£38.13',
+ 'title': 'If I Stay (If I Stay #1)',
+ 'url': 'if-i-stay-if-i-stay-1_379/index.html'}
+2025-08-11 21:42:53 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£36.55',
+ 'title': "I Know Why the Caged Bird Sings (Maya Angelou's Autobiography #1)",
+ 'url': 'i-know-why-the-caged-bird-sings-maya-angelous-autobiography-1_378/index.html'}
+{'price': '£36.55',
+ 'title': "I Know Why the Caged Bird Sings (Maya Angelou's Autobiography #1)",
+ 'url': 'i-know-why-the-caged-bird-sings-maya-angelous-autobiography-1_378/index.html'}
+2025-08-11 21:42:53 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£23.32',
+ 'title': 'Harry Potter and the Deathly Hallows (Harry Potter #7)',
+ 'url': 'harry-potter-and-the-deathly-hallows-harry-potter-7_377/index.html'}
+{'price': '£23.32',
+ 'title': 'Harry Potter and the Deathly Hallows (Harry Potter #7)',
+ 'url': 'harry-potter-and-the-deathly-hallows-harry-potter-7_377/index.html'}
+2025-08-11 21:42:53 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£16.33',
+ 'title': 'Fruits Basket, Vol. 5 (Fruits Basket #5)',
+ 'url': 'fruits-basket-vol-5-fruits-basket-5_376/index.html'}
+{'price': '£16.33',
+ 'title': 'Fruits Basket, Vol. 5 (Fruits Basket #5)',
+ 'url': 'fruits-basket-vol-5-fruits-basket-5_376/index.html'}
+2025-08-11 21:42:53 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£32.42',
+ 'title': 'Foundation (Foundation (Publication Order) #1)',
+ 'url': 'foundation-foundation-publication-order-1_375/index.html'}
+{'price': '£32.42',
+ 'title': 'Foundation (Foundation (Publication Order) #1)',
+ 'url': 'foundation-foundation-publication-order-1_375/index.html'}
+2025-08-11 21:42:53 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£16.96',
+ 'title': 'Fool Me Once',
+ 'url': 'fool-me-once_374/index.html'}
+{'price': '£16.96',
+ 'title': 'Fool Me Once',
+ 'url': 'fool-me-once_374/index.html'}
+2025-08-11 21:42:53 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£22.37',
+ 'title': 'Find Her (Detective D.D. Warren #8)',
+ 'url': 'find-her-detective-dd-warren-8_373/index.html'}
+{'price': '£22.37',
+ 'title': 'Find Her (Detective D.D. Warren #8)',
+ 'url': 'find-her-detective-dd-warren-8_373/index.html'}
+2025-08-11 21:42:53 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£42.27',
+ 'title': 'Evicted: Poverty and Profit in the American City',
+ 'url': 'evicted-poverty-and-profit-in-the-american-city_372/index.html'}
+{'price': '£42.27',
+ 'title': 'Evicted: Poverty and Profit in the American City',
+ 'url': 'evicted-poverty-and-profit-in-the-american-city_372/index.html'}
+2025-08-11 21:42:53 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£38.70', 'title': 'Drama', 'url': 'drama_371/index.html'}
+{'price': '£38.70', 'title': 'Drama', 'url': 'drama_371/index.html'}
+2025-08-11 21:42:53 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£35.63',
+ 'title': 'Dracula the Un-Dead',
+ 'url': 'dracula-the-un-dead_370/index.html'}
+{'price': '£35.63',
+ 'title': 'Dracula the Un-Dead',
+ 'url': 'dracula-the-un-dead_370/index.html'}
+2025-08-11 21:42:53 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£58.00',
+ 'title': 'Digital Fortress',
+ 'url': 'digital-fortress_369/index.html'}
+{'price': '£58.00',
+ 'title': 'Digital Fortress',
+ 'url': 'digital-fortress_369/index.html'}
+2025-08-11 21:42:53 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£52.41',
+ 'title': 'Death Note, Vol. 5: Whiteout (Death Note #5)',
+ 'url': 'death-note-vol-5-whiteout-death-note-5_368/index.html'}
+{'price': '£52.41',
+ 'title': 'Death Note, Vol. 5: Whiteout (Death Note #5)',
+ 'url': 'death-note-vol-5-whiteout-death-note-5_368/index.html'}
+2025-08-11 21:42:53 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£32.35',
+ 'title': 'Data, A Love Story: How I Gamed Online Dating to Meet My Match',
+ 'url': 'data-a-love-story-how-i-gamed-online-dating-to-meet-my-match_367/index.html'}
+{'price': '£32.35',
+ 'title': 'Data, A Love Story: How I Gamed Online Dating to Meet My Match',
+ 'url': 'data-a-love-story-how-i-gamed-online-dating-to-meet-my-match_367/index.html'}
+2025-08-11 21:42:53 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£20.75',
+ 'title': 'Critique of Pure Reason',
+ 'url': 'critique-of-pure-reason_366/index.html'}
+{'price': '£20.75',
+ 'title': 'Critique of Pure Reason',
+ 'url': 'critique-of-pure-reason_366/index.html'}
+2025-08-11 21:42:53 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£17.49', 'title': 'Booked', 'url': 'booked_365/index.html'}
+{'price': '£17.49', 'title': 'Booked', 'url': 'booked_365/index.html'}
+2025-08-11 21:42:53 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£34.13',
+ 'title': 'Blue Lily, Lily Blue (The Raven Cycle #3)',
+ 'url': 'blue-lily-lily-blue-the-raven-cycle-3_364/index.html'}
+{'price': '£34.13',
+ 'title': 'Blue Lily, Lily Blue (The Raven Cycle #3)',
+ 'url': 'blue-lily-lily-blue-the-raven-cycle-3_364/index.html'}
+2025-08-11 21:42:53 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£58.81',
+ 'title': 'Approval Junkie: Adventures in Caring Too Much',
+ 'url': 'approval-junkie-adventures-in-caring-too-much_363/index.html'}
+{'price': '£58.81',
+ 'title': 'Approval Junkie: Adventures in Caring Too Much',
+ 'url': 'approval-junkie-adventures-in-caring-too-much_363/index.html'}
+2025-08-11 21:42:53 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£10.00',
+ 'title': 'An Abundance of Katherines',
+ 'url': 'an-abundance-of-katherines_362/index.html'}
+{'price': '£10.00',
+ 'title': 'An Abundance of Katherines',
+ 'url': 'an-abundance-of-katherines_362/index.html'}
+2025-08-11 21:42:53 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£51.22',
+ 'title': "America's War for the Greater Middle East: A Military History",
+ 'url': 'americas-war-for-the-greater-middle-east-a-military-history_361/index.html'}
+{'price': '£51.22',
+ 'title': "America's War for the Greater Middle East: A Military History",
+ 'url': 'americas-war-for-the-greater-middle-east-a-military-history_361/index.html'}
+2025-08-11 21:42:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£58.59',
+ 'title': 'Alight (The Generations Trilogy #2)',
+ 'url': 'alight-the-generations-trilogy-2_360/index.html'}
+{'price': '£58.59',
+ 'title': 'Alight (The Generations Trilogy #2)',
+ 'url': 'alight-the-generations-trilogy-2_360/index.html'}
+2025-08-11 21:42:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£31.30',
+ 'title': "A Girl's Guide to Moving On (New Beginnings #2)",
+ 'url': 'a-girls-guide-to-moving-on-new-beginnings-2_359/index.html'}
+{'price': '£31.30',
+ 'title': "A Girl's Guide to Moving On (New Beginnings #2)",
+ 'url': 'a-girls-guide-to-moving-on-new-beginnings-2_359/index.html'}
+2025-08-11 21:42:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£46.42',
+ 'title': 'A Game of Thrones (A Song of Ice and Fire #1)',
+ 'url': 'a-game-of-thrones-a-song-of-ice-and-fire-1_358/index.html'}
+{'price': '£46.42',
+ 'title': 'A Game of Thrones (A Song of Ice and Fire #1)',
+ 'url': 'a-game-of-thrones-a-song-of-ice-and-fire-1_358/index.html'}
+2025-08-11 21:42:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£17.21',
+ 'title': 'A Feast for Crows (A Song of Ice and Fire #4)',
+ 'url': 'a-feast-for-crows-a-song-of-ice-and-fire-4_357/index.html'}
+{'price': '£17.21',
+ 'title': 'A Feast for Crows (A Song of Ice and Fire #4)',
+ 'url': 'a-feast-for-crows-a-song-of-ice-and-fire-4_357/index.html'}
+2025-08-11 21:42:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£10.79',
+ 'title': 'A Clash of Kings (A Song of Ice and Fire #2)',
+ 'url': 'a-clash-of-kings-a-song-of-ice-and-fire-2_356/index.html'}
+{'price': '£10.79',
+ 'title': 'A Clash of Kings (A Song of Ice and Fire #2)',
+ 'url': 'a-clash-of-kings-a-song-of-ice-and-fire-2_356/index.html'}
+2025-08-11 21:42:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£52.35',
+ 'title': 'Vogue Colors A to Z: A Fashion Coloring Book',
+ 'url': 'vogue-colors-a-to-z-a-fashion-coloring-book_355/index.html'}
+{'price': '£52.35',
+ 'title': 'Vogue Colors A to Z: A Fashion Coloring Book',
+ 'url': 'vogue-colors-a-to-z-a-fashion-coloring-book_355/index.html'}
+2025-08-11 21:42:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£27.88',
+ 'title': 'The Shining (The Shining #1)',
+ 'url': 'the-shining-the-shining-1_354/index.html'}
+{'price': '£27.88',
+ 'title': 'The Shining (The Shining #1)',
+ 'url': 'the-shining-the-shining-1_354/index.html'}
+2025-08-11 21:42:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£50.26',
+ 'title': "The Pilgrim's Progress",
+ 'url': 'the-pilgrims-progress_353/index.html'}
+{'price': '£50.26',
+ 'title': "The Pilgrim's Progress",
+ 'url': 'the-pilgrims-progress_353/index.html'}
+2025-08-11 21:42:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£59.99',
+ 'title': 'The Perfect Play (Play by Play #1)',
+ 'url': 'the-perfect-play-play-by-play-1_352/index.html'}
+{'price': '£59.99',
+ 'title': 'The Perfect Play (Play by Play #1)',
+ 'url': 'the-perfect-play-play-by-play-1_352/index.html'}
+2025-08-11 21:42:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£28.32',
+ 'title': 'The Passion of Dolssa',
+ 'url': 'the-passion-of-dolssa_351/index.html'}
+{'price': '£28.32',
+ 'title': 'The Passion of Dolssa',
+ 'url': 'the-passion-of-dolssa_351/index.html'}
+2025-08-11 21:42:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£38.71',
+ 'title': 'The Jazz of Physics: The Secret Link Between Music and the '
+          'Structure of the Universe',
+ 'url': 'the-jazz-of-physics-the-secret-link-between-music-and-the-structure-of-the-universe_350/index.html'}
+{'price': '£38.71',
+ 'title': 'The Jazz of Physics: The Secret Link Between Music and the '
+          'Structure of the Universe',
+ 'url': 'the-jazz-of-physics-the-secret-link-between-music-and-the-structure-of-the-universe_350/index.html'}
+2025-08-11 21:42:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£29.85',
+ 'title': 'The Hunger Games (The Hunger Games #1)',
+ 'url': 'the-hunger-games-the-hunger-games-1_349/index.html'}
+{'price': '£29.85',
+ 'title': 'The Hunger Games (The Hunger Games #1)',
+ 'url': 'the-hunger-games-the-hunger-games-1_349/index.html'}
+2025-08-11 21:42:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£14.82',
+ 'title': 'The Hound of the Baskervilles (Sherlock Holmes #5)',
+ 'url': 'the-hound-of-the-baskervilles-sherlock-holmes-5_348/index.html'}
+{'price': '£14.82',
+ 'title': 'The Hound of the Baskervilles (Sherlock Holmes #5)',
+ 'url': 'the-hound-of-the-baskervilles-sherlock-holmes-5_348/index.html'}
+2025-08-11 21:42:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£16.81',
+ 'title': 'The Gunning of America: Business and the Making of American Gun '
+          'Culture',
+ 'url': 'the-gunning-of-america-business-and-the-making-of-american-gun-culture_347/index.html'}
+{'price': '£16.81',
+ 'title': 'The Gunning of America: Business and the Making of American Gun '
+          'Culture',
+ 'url': 'the-gunning-of-america-business-and-the-making-of-american-gun-culture_347/index.html'}
+2025-08-11 21:42:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£28.23',
+ 'title': "The Geography of Bliss: One Grump's Search for the Happiest Places "
+          'in the World',
+ 'url': 'the-geography-of-bliss-one-grumps-search-for-the-happiest-places-in-the-world_346/index.html'}
+{'price': '£28.23',
+ 'title': "The Geography of Bliss: One Grump's Search for the Happiest Places "
+          'in the World',
+ 'url': 'the-geography-of-bliss-one-grumps-search-for-the-happiest-places-in-the-world_346/index.html'}
+2025-08-11 21:42:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£52.11',
+ 'title': 'The Demonists (Demonist #1)',
+ 'url': 'the-demonists-demonist-1_345/index.html'}
+{'price': '£52.11',
+ 'title': 'The Demonists (Demonist #1)',
+ 'url': 'the-demonists-demonist-1_345/index.html'}
+2025-08-11 21:42:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£27.88',
+ 'title': 'The Demon Prince of Momochi House, Vol. 4 (The Demon Prince of '
+          'Momochi House #4)',
+ 'url': 'the-demon-prince-of-momochi-house-vol-4-the-demon-prince-of-momochi-house-4_344/index.html'}
+{'price': '£27.88',
+ 'title': 'The Demon Prince of Momochi House, Vol. 4 (The Demon Prince of '
+          'Momochi House #4)',
+ 'url': 'the-demon-prince-of-momochi-house-vol-4-the-demon-prince-of-momochi-house-4_344/index.html'}
+2025-08-11 21:42:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£59.71',
+ 'title': 'The Bone Hunters (Lexy Vaughan & Steven Macaulay #2)',
+ 'url': 'the-bone-hunters-lexy-vaughan-steven-macaulay-2_343/index.html'}
+{'price': '£59.71',
+ 'title': 'The Bone Hunters (Lexy Vaughan & Steven Macaulay #2)',
+ 'url': 'the-bone-hunters-lexy-vaughan-steven-macaulay-2_343/index.html'}
+2025-08-11 21:42:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£46.08',
+ 'title': 'The Beast (Black Dagger Brotherhood #14)',
+ 'url': 'the-beast-black-dagger-brotherhood-14_342/index.html'}
+{'price': '£46.08',
+ 'title': 'The Beast (Black Dagger Brotherhood #14)',
+ 'url': 'the-beast-black-dagger-brotherhood-14_342/index.html'}
+2025-08-11 21:42:58 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£13.73', 'title': 'Some Women', 'url': 'some-women_341/index.html'}
+{'price': '£13.73', 'title': 'Some Women', 'url': 'some-women_341/index.html'}
+2025-08-11 21:43:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£48.39',
+ 'title': 'Shopaholic Ties the Knot (Shopaholic #3)',
+ 'url': 'shopaholic-ties-the-knot-shopaholic-3_340/index.html'}
+{'price': '£48.39',
+ 'title': 'Shopaholic Ties the Knot (Shopaholic #3)',
+ 'url': 'shopaholic-ties-the-knot-shopaholic-3_340/index.html'}
+2025-08-11 21:43:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£49.45',
+ 'title': 'Paper and Fire (The Great Library #2)',
+ 'url': 'paper-and-fire-the-great-library-2_339/index.html'}
+{'price': '£49.45',
+ 'title': 'Paper and Fire (The Great Library #2)',
+ 'url': 'paper-and-fire-the-great-library-2_339/index.html'}
+2025-08-11 21:43:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£19.67',
+ 'title': 'Outlander (Outlander #1)',
+ 'url': 'outlander-outlander-1_338/index.html'}
+{'price': '£19.67',
+ 'title': 'Outlander (Outlander #1)',
+ 'url': 'outlander-outlander-1_338/index.html'}
+2025-08-11 21:43:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£12.36',
+ 'title': 'Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel '
+          'Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors',
+ 'url': 'orchestra-of-exiles-the-story-of-bronislaw-huberman-the-israel-philharmonic-and-the-one-thousand-jews-he-saved-from-nazi-horrors_337/index.html'}
+{'price': '£12.36',
+ 'title': 'Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel '
+          'Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors',
+ 'url': 'orchestra-of-exiles-the-story-of-bronislaw-huberman-the-israel-philharmonic-and-the-one-thousand-jews-he-saved-from-nazi-horrors_337/index.html'}
+2025-08-11 21:43:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£20.02',
+ 'title': 'No One Here Gets Out Alive',
+ 'url': 'no-one-here-gets-out-alive_336/index.html'}
+{'price': '£20.02',
+ 'title': 'No One Here Gets Out Alive',
+ 'url': 'no-one-here-gets-out-alive_336/index.html'}
+2025-08-11 21:43:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£12.75',
+ 'title': 'Night Shift (Night Shift #1-20)',
+ 'url': 'night-shift-night-shift-1-20_335/index.html'}
+{'price': '£12.75',
+ 'title': 'Night Shift (Night Shift #1-20)',
+ 'url': 'night-shift-night-shift-1-20_335/index.html'}
+2025-08-11 21:43:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£47.51',
+ 'title': 'Needful Things',
+ 'url': 'needful-things_334/index.html'}
+{'price': '£47.51',
+ 'title': 'Needful Things',
+ 'url': 'needful-things_334/index.html'}
+2025-08-11 21:43:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£20.44',
+ 'title': 'Mockingjay (The Hunger Games #3)',
+ 'url': 'mockingjay-the-hunger-games-3_333/index.html'}
+{'price': '£20.44',
+ 'title': 'Mockingjay (The Hunger Games #3)',
+ 'url': 'mockingjay-the-hunger-games-3_333/index.html'}
+2025-08-11 21:43:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£34.79', 'title': 'Misery', 'url': 'misery_332/index.html'}
+{'price': '£34.79', 'title': 'Misery', 'url': 'misery_332/index.html'}
+2025-08-11 21:43:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£28.07',
+ 'title': 'Little Women (Little Women #1)',
+ 'url': 'little-women-little-women-1_331/index.html'}
+{'price': '£28.07',
+ 'title': 'Little Women (Little Women #1)',
+ 'url': 'little-women-little-women-1_331/index.html'}
+2025-08-11 21:43:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£25.01', 'title': 'It', 'url': 'it_330/index.html'}
+{'price': '£25.01', 'title': 'It', 'url': 'it_330/index.html'}
+2025-08-11 21:43:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£13.90',
+ 'title': "Harry Potter and the Sorcerer's Stone (Harry Potter #1)",
+ 'url': 'harry-potter-and-the-sorcerers-stone-harry-potter-1_329/index.html'}
+{'price': '£13.90',
+ 'title': "Harry Potter and the Sorcerer's Stone (Harry Potter #1)",
+ 'url': 'harry-potter-and-the-sorcerers-stone-harry-potter-1_329/index.html'}
+2025-08-11 21:43:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£24.17',
+ 'title': 'Harry Potter and the Prisoner of Azkaban (Harry Potter #3)',
+ 'url': 'harry-potter-and-the-prisoner-of-azkaban-harry-potter-3_328/index.html'}
+{'price': '£24.17',
+ 'title': 'Harry Potter and the Prisoner of Azkaban (Harry Potter #3)',
+ 'url': 'harry-potter-and-the-prisoner-of-azkaban-harry-potter-3_328/index.html'}
+2025-08-11 21:43:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£31.63',
+ 'title': 'Harry Potter and the Order of the Phoenix (Harry Potter #5)',
+ 'url': 'harry-potter-and-the-order-of-the-phoenix-harry-potter-5_327/index.html'}
+{'price': '£31.63',
+ 'title': 'Harry Potter and the Order of the Phoenix (Harry Potter #5)',
+ 'url': 'harry-potter-and-the-order-of-the-phoenix-harry-potter-5_327/index.html'}
+2025-08-11 21:43:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£48.75',
+ 'title': 'Harry Potter and the Half-Blood Prince (Harry Potter #6)',
+ 'url': 'harry-potter-and-the-half-blood-prince-harry-potter-6_326/index.html'}
+{'price': '£48.75',
+ 'title': 'Harry Potter and the Half-Blood Prince (Harry Potter #6)',
+ 'url': 'harry-potter-and-the-half-blood-prince-harry-potter-6_326/index.html'}
+2025-08-11 21:43:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£14.74',
+ 'title': 'Harry Potter and the Chamber of Secrets (Harry Potter #2)',
+ 'url': 'harry-potter-and-the-chamber-of-secrets-harry-potter-2_325/index.html'}
+{'price': '£14.74',
+ 'title': 'Harry Potter and the Chamber of Secrets (Harry Potter #2)',
+ 'url': 'harry-potter-and-the-chamber-of-secrets-harry-potter-2_325/index.html'}
+2025-08-11 21:43:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£32.49',
+ 'title': 'Gone with the Wind',
+ 'url': 'gone-with-the-wind_324/index.html'}
+{'price': '£32.49',
+ 'title': 'Gone with the Wind',
+ 'url': 'gone-with-the-wind_324/index.html'}
+2025-08-11 21:43:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£27.80',
+ 'title': 'God Is Not Great: How Religion Poisons Everything',
+ 'url': 'god-is-not-great-how-religion-poisons-everything_323/index.html'}
+{'price': '£27.80',
+ 'title': 'God Is Not Great: How Religion Poisons Everything',
+ 'url': 'god-is-not-great-how-religion-poisons-everything_323/index.html'}
+2025-08-11 21:43:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£26.77',
+ 'title': 'Girl With a Pearl Earring',
+ 'url': 'girl-with-a-pearl-earring_322/index.html'}
+{'price': '£26.77',
+ 'title': 'Girl With a Pearl Earring',
+ 'url': 'girl-with-a-pearl-earring_322/index.html'}
+2025-08-11 21:43:06 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£50.44',
+ 'title': 'Fruits Basket, Vol. 4 (Fruits Basket #4)',
+ 'url': 'fruits-basket-vol-4-fruits-basket-4_321/index.html'}
+{'price': '£50.44',
+ 'title': 'Fruits Basket, Vol. 4 (Fruits Basket #4)',
+ 'url': 'fruits-basket-vol-4-fruits-basket-4_321/index.html'}
+2025-08-11 21:43:11 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£34.93',
+ 'title': 'Far From True (Promise Falls Trilogy #2)',
+ 'url': 'far-from-true-promise-falls-trilogy-2_320/index.html'}
+{'price': '£34.93',
+ 'title': 'Far From True (Promise Falls Trilogy #2)',
+ 'url': 'far-from-true-promise-falls-trilogy-2_320/index.html'}
+2025-08-11 21:43:11 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£12.87',
+ 'title': 'Dark Lover (Black Dagger Brotherhood #1)',
+ 'url': 'dark-lover-black-dagger-brotherhood-1_319/index.html'}
+{'price': '£12.87',
+ 'title': 'Dark Lover (Black Dagger Brotherhood #1)',
+ 'url': 'dark-lover-black-dagger-brotherhood-1_319/index.html'}
+2025-08-11 21:43:11 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£48.94',
+ 'title': 'Confessions of a Shopaholic (Shopaholic #1)',
+ 'url': 'confessions-of-a-shopaholic-shopaholic-1_318/index.html'}
+{'price': '£48.94',
+ 'title': 'Confessions of a Shopaholic (Shopaholic #1)',
+ 'url': 'confessions-of-a-shopaholic-shopaholic-1_318/index.html'}
+2025-08-11 21:43:11 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£13.38',
+ 'title': 'Changing the Game (Play by Play #2)',
+ 'url': 'changing-the-game-play-by-play-2_317/index.html'}
+{'price': '£13.38',
+ 'title': 'Changing the Game (Play by Play #2)',
+ 'url': 'changing-the-game-play-by-play-2_317/index.html'}
+2025-08-11 21:43:11 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£58.63', 'title': 'Candide', 'url': 'candide_316/index.html'}
+{'price': '£58.63', 'title': 'Candide', 'url': 'candide_316/index.html'}
+2025-08-11 21:43:11 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£21.94',
+ 'title': 'Can You Keep a Secret?',
+ 'url': 'can-you-keep-a-secret_315/index.html'}
+{'price': '£21.94',
+ 'title': 'Can You Keep a Secret?',
+ 'url': 'can-you-keep-a-secret_315/index.html'}
+2025-08-11 21:43:11 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£26.58',
+ 'title': 'Atlas Shrugged',
+ 'url': 'atlas-shrugged_314/index.html'}
+{'price': '£26.58',
+ 'title': 'Atlas Shrugged',
+ 'url': 'atlas-shrugged_314/index.html'}
+2025-08-11 21:43:12 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£57.22', 'title': 'Animal Farm', 'url': 'animal-farm_313/index.html'}
+{'price': '£57.22', 'title': 'Animal Farm', 'url': 'animal-farm_313/index.html'}
+2025-08-11 21:43:12 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£56.43',
+ 'title': 'A Walk to Remember',
+ 'url': 'a-walk-to-remember_312/index.html'}
+{'price': '£56.43',
+ 'title': 'A Walk to Remember',
+ 'url': 'a-walk-to-remember_312/index.html'}
+2025-08-11 21:43:12 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£55.65',
+ 'title': "A New Earth: Awakening to Your Life's Purpose",
+ 'url': 'a-new-earth-awakening-to-your-lifes-purpose_311/index.html'}
+{'price': '£55.65',
+ 'title': "A New Earth: Awakening to Your Life's Purpose",
+ 'url': 'a-new-earth-awakening-to-your-lifes-purpose_311/index.html'}
+2025-08-11 21:43:12 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£27.62',
+ 'title': 'A History of God: The 4,000-Year Quest of Judaism, Christianity, '
+          'and Islam',
+ 'url': 'a-history-of-god-the-4000-year-quest-of-judaism-christianity-and-islam_310/index.html'}
+{'price': '£27.62',
+ 'title': 'A History of God: The 4,000-Year Quest of Judaism, Christianity, '
+          'and Islam',
+ 'url': 'a-history-of-god-the-4000-year-quest-of-judaism-christianity-and-islam_310/index.html'}
+2025-08-11 21:43:12 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£49.56', 'title': "'Salem's Lot", 'url': 'salems-lot_309/index.html'}
+{'price': '£49.56', 'title': "'Salem's Lot", 'url': 'salems-lot_309/index.html'}
+2025-08-11 21:43:12 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£34.77',
+ 'title': 'Zero History (Blue Ant #3)',
+ 'url': 'zero-history-blue-ant-3_308/index.html'}
+{'price': '£34.77',
+ 'title': 'Zero History (Blue Ant #3)',
+ 'url': 'zero-history-blue-ant-3_308/index.html'}
+2025-08-11 21:43:12 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£17.73',
+ 'title': 'Wuthering Heights',
+ 'url': 'wuthering-heights_307/index.html'}
+{'price': '£17.73',
+ 'title': 'Wuthering Heights',
+ 'url': 'wuthering-heights_307/index.html'}
+2025-08-11 21:43:12 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£21.80',
+ 'title': 'World War Z: An Oral History of the Zombie War',
+ 'url': 'world-war-z-an-oral-history-of-the-zombie-war_306/index.html'}
+{'price': '£21.80',
+ 'title': 'World War Z: An Oral History of the Zombie War',
+ 'url': 'world-war-z-an-oral-history-of-the-zombie-war_306/index.html'}
+2025-08-11 21:43:12 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£46.02',
+ 'title': 'Wild: From Lost to Found on the Pacific Crest Trail',
+ 'url': 'wild-from-lost-to-found-on-the-pacific-crest-trail_305/index.html'}
+{'price': '£46.02',
+ 'title': 'Wild: From Lost to Found on the Pacific Crest Trail',
+ 'url': 'wild-from-lost-to-found-on-the-pacific-crest-trail_305/index.html'}
+2025-08-11 21:43:12 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£18.13',
+ 'title': "Where'd You Go, Bernadette",
+ 'url': 'whered-you-go-bernadette_304/index.html'}
+{'price': '£18.13',
+ 'title': "Where'd You Go, Bernadette",
+ 'url': 'whered-you-go-bernadette_304/index.html'}
+2025-08-11 21:43:12 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£30.89',
+ 'title': 'When You Are Engulfed in Flames',
+ 'url': 'when-you-are-engulfed-in-flames_303/index.html'}
+{'price': '£30.89',
+ 'title': 'When You Are Engulfed in Flames',
+ 'url': 'when-you-are-engulfed-in-flames_303/index.html'}
+2025-08-11 21:43:12 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£31.95',
+ 'title': 'We the People: The Modern-Day Figures Who Have Reshaped and '
+          "Affirmed the Founding Fathers' Vision of America",
+ 'url': 'we-the-people-the-modern-day-figures-who-have-reshaped-and-affirmed-the-founding-fathers-vision-of-america_302/index.html'}
+{'price': '£31.95',
+ 'title': 'We the People: The Modern-Day Figures Who Have Reshaped and '
+          "Affirmed the Founding Fathers' Vision of America",
+ 'url': 'we-the-people-the-modern-day-figures-who-have-reshaped-and-affirmed-the-founding-fathers-vision-of-america_302/index.html'}
+2025-08-11 21:43:12 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£24.04',
+ 'title': 'We Are All Completely Beside Ourselves',
+ 'url': 'we-are-all-completely-beside-ourselves_301/index.html'}
+{'price': '£24.04',
+ 'title': 'We Are All Completely Beside Ourselves',
+ 'url': 'we-are-all-completely-beside-ourselves_301/index.html'}
+2025-08-11 21:43:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£32.36',
+ 'title': 'Walk the Edge (Thunder Road #2)',
+ 'url': 'walk-the-edge-thunder-road-2_300/index.html'}
+{'price': '£32.36',
+ 'title': 'Walk the Edge (Thunder Road #2)',
+ 'url': 'walk-the-edge-thunder-road-2_300/index.html'}
+2025-08-11 21:43:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£21.07',
+ 'title': 'Voyager (Outlander #3)',
+ 'url': 'voyager-outlander-3_299/index.html'}
+{'price': '£21.07',
+ 'title': 'Voyager (Outlander #3)',
+ 'url': 'voyager-outlander-3_299/index.html'}
+2025-08-11 21:43:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£50.66',
+ 'title': 'Very Good Lives: The Fringe Benefits of Failure and the Importance '
+          'of Imagination',
+ 'url': 'very-good-lives-the-fringe-benefits-of-failure-and-the-importance-of-imagination_298/index.html'}
+{'price': '£50.66',
+ 'title': 'Very Good Lives: The Fringe Benefits of Failure and the Importance '
+          'of Imagination',
+ 'url': 'very-good-lives-the-fringe-benefits-of-failure-and-the-importance-of-imagination_298/index.html'}
+2025-08-11 21:43:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£13.66',
+ 'title': 'Vegan Vegetarian Omnivore: Dinner for Everyone at the Table',
+ 'url': 'vegan-vegetarian-omnivore-dinner-for-everyone-at-the-table_297/index.html'}
+{'price': '£13.66',
+ 'title': 'Vegan Vegetarian Omnivore: Dinner for Everyone at the Table',
+ 'url': 'vegan-vegetarian-omnivore-dinner-for-everyone-at-the-table_297/index.html'}
+2025-08-11 21:43:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£58.09',
+ 'title': 'Unstuffed: Decluttering Your Home, Mind, and Soul',
+ 'url': 'unstuffed-decluttering-your-home-mind-and-soul_296/index.html'}
+{'price': '£58.09',
+ 'title': 'Unstuffed: Decluttering Your Home, Mind, and Soul',
+ 'url': 'unstuffed-decluttering-your-home-mind-and-soul_296/index.html'}
+2025-08-11 21:43:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£30.00',
+ 'title': 'Under the Banner of Heaven: A Story of Violent Faith',
+ 'url': 'under-the-banner-of-heaven-a-story-of-violent-faith_295/index.html'}
+{'price': '£30.00',
+ 'title': 'Under the Banner of Heaven: A Story of Violent Faith',
+ 'url': 'under-the-banner-of-heaven-a-story-of-violent-faith_295/index.html'}
+2025-08-11 21:43:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£32.74',
+ 'title': 'Two Boys Kissing',
+ 'url': 'two-boys-kissing_294/index.html'}
+{'price': '£32.74',
+ 'title': 'Two Boys Kissing',
+ 'url': 'two-boys-kissing_294/index.html'}
+2025-08-11 21:43:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£41.93',
+ 'title': 'Twilight (Twilight #1)',
+ 'url': 'twilight-twilight-1_293/index.html'}
+{'price': '£41.93',
+ 'title': 'Twilight (Twilight #1)',
+ 'url': 'twilight-twilight-1_293/index.html'}
+2025-08-11 21:43:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£42.80',
+ 'title': 'Twenties Girl',
+ 'url': 'twenties-girl_292/index.html'}
+{'price': '£42.80',
+ 'title': 'Twenties Girl',
+ 'url': 'twenties-girl_292/index.html'}
+2025-08-11 21:43:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£53.51',
+ 'title': "Trespassing Across America: One Man's Epic, Never-Done-Before (and "
+          'Sort of Illegal) Hike Across the Heartland',
+ 'url': 'trespassing-across-america-one-mans-epic-never-done-before-and-sort-of-illegal-hike-across-the-heartland_291/index.html'}
+{'price': '£53.51',
+ 'title': "Trespassing Across America: One Man's Epic, Never-Done-Before (and "
+          'Sort of Illegal) Hike Across the Heartland',
+ 'url': 'trespassing-across-america-one-mans-epic-never-done-before-and-sort-of-illegal-hike-across-the-heartland_291/index.html'}
+2025-08-11 21:43:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£23.21',
+ 'title': 'Three-Martini Lunch',
+ 'url': 'three-martini-lunch_290/index.html'}
+{'price': '£23.21',
+ 'title': 'Three-Martini Lunch',
+ 'url': 'three-martini-lunch_290/index.html'}
+2025-08-11 21:43:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£21.14',
+ 'title': 'Thinking, Fast and Slow',
+ 'url': 'thinking-fast-and-slow_289/index.html'}
+{'price': '£21.14',
+ 'title': 'Thinking, Fast and Slow',
+ 'url': 'thinking-fast-and-slow_289/index.html'}
+2025-08-11 21:43:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£56.07',
+ 'title': 'The Wild Robot',
+ 'url': 'the-wild-robot_288/index.html'}
+{'price': '£56.07',
+ 'title': 'The Wild Robot',
+ 'url': 'the-wild-robot_288/index.html'}
+2025-08-11 21:43:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£14.41',
+ 'title': 'The Wicked + The Divine, Vol. 3: Commercial Suicide (The Wicked + '
+          'The Divine)',
+ 'url': 'the-wicked-the-divine-vol-3-commercial-suicide-the-wicked-the-divine_287/index.html'}
+{'price': '£14.41',
+ 'title': 'The Wicked + The Divine, Vol. 3: Commercial Suicide (The Wicked + '
+          'The Divine)',
+ 'url': 'the-wicked-the-divine-vol-3-commercial-suicide-the-wicked-the-divine_287/index.html'}
+2025-08-11 21:43:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£45.75',
+ 'title': 'The Undomestic Goddess',
+ 'url': 'the-undomestic-goddess_286/index.html'}
+{'price': '£45.75',
+ 'title': 'The Undomestic Goddess',
+ 'url': 'the-undomestic-goddess_286/index.html'}
+2025-08-11 21:43:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£15.77',
+ 'title': 'The Travelers',
+ 'url': 'the-travelers_285/index.html'}
+{'price': '£15.77',
+ 'title': 'The Travelers',
+ 'url': 'the-travelers_285/index.html'}
+2025-08-11 21:43:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£10.02',
+ 'title': 'The Tipping Point: How Little Things Can Make a Big Difference',
+ 'url': 'the-tipping-point-how-little-things-can-make-a-big-difference_284/index.html'}
+{'price': '£10.02',
+ 'title': 'The Tipping Point: How Little Things Can Make a Big Difference',
+ 'url': 'the-tipping-point-how-little-things-can-make-a-big-difference_284/index.html'}
+2025-08-11 21:43:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£48.77',
+ 'title': 'The Thing About Jellyfish',
+ 'url': 'the-thing-about-jellyfish_283/index.html'}
+{'price': '£48.77',
+ 'title': 'The Thing About Jellyfish',
+ 'url': 'the-thing-about-jellyfish_283/index.html'}
+2025-08-11 21:43:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£57.86', 'title': 'The Stand', 'url': 'the-stand_282/index.html'}
+{'price': '£57.86', 'title': 'The Stand', 'url': 'the-stand_282/index.html'}
+2025-08-11 21:43:15 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£23.59',
+ 'title': 'The Smitten Kitchen Cookbook',
+ 'url': 'the-smitten-kitchen-cookbook_281/index.html'}
+{'price': '£23.59',
+ 'title': 'The Smitten Kitchen Cookbook',
+ 'url': 'the-smitten-kitchen-cookbook_281/index.html'}
+2025-08-11 21:43:20 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£23.05',
+ 'title': 'The Silkworm (Cormoran Strike #2)',
+ 'url': 'the-silkworm-cormoran-strike-2_280/index.html'}
+{'price': '£23.05',
+ 'title': 'The Silkworm (Cormoran Strike #2)',
+ 'url': 'the-silkworm-cormoran-strike-2_280/index.html'}
+2025-08-11 21:43:20 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£55.55',
+ 'title': 'The Sandman, Vol. 3: Dream Country (The Sandman (volumes) #3)',
+ 'url': 'the-sandman-vol-3-dream-country-the-sandman-volumes-3_279/index.html'}
+{'price': '£55.55',
+ 'title': 'The Sandman, Vol. 3: Dream Country (The Sandman (volumes) #3)',
+ 'url': 'the-sandman-vol-3-dream-country-the-sandman-volumes-3_279/index.html'}
+2025-08-11 21:43:20 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£58.64',
+ 'title': 'The Rose & the Dagger (The Wrath and the Dawn #2)',
+ 'url': 'the-rose-the-dagger-the-wrath-and-the-dawn-2_278/index.html'}
+{'price': '£58.64',
+ 'title': 'The Rose & the Dagger (The Wrath and the Dawn #2)',
+ 'url': 'the-rose-the-dagger-the-wrath-and-the-dawn-2_278/index.html'}
+2025-08-11 21:43:20 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£23.21',
+ 'title': 'The Road to Little Dribbling: Adventures of an American in Britain '
+          '(Notes From a Small Island #2)',
+ 'url': 'the-road-to-little-dribbling-adventures-of-an-american-in-britain-notes-from-a-small-island-2_277/index.html'}
+{'price': '£23.21',
+ 'title': 'The Road to Little Dribbling: Adventures of an American in Britain '
+          '(Notes From a Small Island #2)',
+ 'url': 'the-road-to-little-dribbling-adventures-of-an-american-in-britain-notes-from-a-small-island-2_277/index.html'}
+2025-08-11 21:43:20 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£42.57',
+ 'title': 'The Rise of Theodore Roosevelt (Theodore Roosevelt #1)',
+ 'url': 'the-rise-of-theodore-roosevelt-theodore-roosevelt-1_276/index.html'}
+{'price': '£42.57',
+ 'title': 'The Rise of Theodore Roosevelt (Theodore Roosevelt #1)',
+ 'url': 'the-rise-of-theodore-roosevelt-theodore-roosevelt-1_276/index.html'}
+2025-08-11 21:43:20 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£10.92',
+ 'title': "The Restaurant at the End of the Universe (Hitchhiker's Guide to "
+          'the Galaxy #2)',
+ 'url': 'the-restaurant-at-the-end-of-the-universe-hitchhikers-guide-to-the-galaxy-2_275/index.html'}
+{'price': '£10.92',
+ 'title': "The Restaurant at the End of the Universe (Hitchhiker's Guide to "
+          'the Galaxy #2)',
+ 'url': 'the-restaurant-at-the-end-of-the-universe-hitchhikers-guide-to-the-galaxy-2_275/index.html'}
+2025-08-11 21:43:20 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£34.77',
+ 'title': 'The Rest Is Noise: Listening to the Twentieth Century',
+ 'url': 'the-rest-is-noise-listening-to-the-twentieth-century_274/index.html'}
+{'price': '£34.77',
+ 'title': 'The Rest Is Noise: Listening to the Twentieth Century',
+ 'url': 'the-rest-is-noise-listening-to-the-twentieth-century_274/index.html'}
+2025-08-11 21:43:20 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£35.66',
+ 'title': 'The Red Tent',
+ 'url': 'the-red-tent_273/index.html'}
+{'price': '£35.66',
+ 'title': 'The Red Tent',
+ 'url': 'the-red-tent_273/index.html'}
+2025-08-11 21:43:20 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£37.19',
+ 'title': 'The Purpose Driven Life: What on Earth Am I Here for?',
+ 'url': 'the-purpose-driven-life-what-on-earth-am-i-here-for_272/index.html'}
+{'price': '£37.19',
+ 'title': 'The Purpose Driven Life: What on Earth Am I Here for?',
+ 'url': 'the-purpose-driven-life-what-on-earth-am-i-here-for_272/index.html'}
+2025-08-11 21:43:20 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£12.25',
+ 'title': 'The Purest Hook (Second Circle Tattoos #3)',
+ 'url': 'the-purest-hook-second-circle-tattoos-3_271/index.html'}
+{'price': '£12.25',
+ 'title': 'The Purest Hook (Second Circle Tattoos #3)',
+ 'url': 'the-purest-hook-second-circle-tattoos-3_271/index.html'}
+2025-08-11 21:43:20 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£29.70',
+ 'title': 'The Picture of Dorian Gray',
+ 'url': 'the-picture-of-dorian-gray_270/index.html'}
+{'price': '£29.70',
+ 'title': 'The Picture of Dorian Gray',
+ 'url': 'the-picture-of-dorian-gray_270/index.html'}
+2025-08-11 21:43:20 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£36.80',
+ 'title': 'The Paris Wife',
+ 'url': 'the-paris-wife_269/index.html'}
+{'price': '£36.80',
+ 'title': 'The Paris Wife',
+ 'url': 'the-paris-wife_269/index.html'}
+2025-08-11 21:43:20 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£45.43',
+ 'title': 'The Obsession',
+ 'url': 'the-obsession_268/index.html'}
+{'price': '£45.43',
+ 'title': 'The Obsession',
+ 'url': 'the-obsession_268/index.html'}
+2025-08-11 21:43:20 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£26.26',
+ 'title': 'The Nightingale',
+ 'url': 'the-nightingale_267/index.html'}
+{'price': '£26.26',
+ 'title': 'The Nightingale',
+ 'url': 'the-nightingale_267/index.html'}
+2025-08-11 21:43:20 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£44.92',
+ 'title': 'The New Guy (and Other Senior Year Distractions)',
+ 'url': 'the-new-guy-and-other-senior-year-distractions_266/index.html'}
+{'price': '£44.92',
+ 'title': 'The New Guy (and Other Senior Year Distractions)',
+ 'url': 'the-new-guy-and-other-senior-year-distractions_266/index.html'}
+2025-08-11 21:43:20 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£52.53',
+ 'title': 'The Nanny Diaries (Nanny #1)',
+ 'url': 'the-nanny-diaries-nanny-1_265/index.html'}
+{'price': '£52.53',
+ 'title': 'The Nanny Diaries (Nanny #1)',
+ 'url': 'the-nanny-diaries-nanny-1_265/index.html'}
+2025-08-11 21:43:20 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£37.25',
+ 'title': 'The Name of God is Mercy',
+ 'url': 'the-name-of-god-is-mercy_264/index.html'}
+{'price': '£37.25',
+ 'title': 'The Name of God is Mercy',
+ 'url': 'the-name-of-god-is-mercy_264/index.html'}
+2025-08-11 21:43:20 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£20.93',
+ 'title': 'The Maze Runner (The Maze Runner #1)',
+ 'url': 'the-maze-runner-the-maze-runner-1_263/index.html'}
+{'price': '£20.93',
+ 'title': 'The Maze Runner (The Maze Runner #1)',
+ 'url': 'the-maze-runner-the-maze-runner-1_263/index.html'}
+2025-08-11 21:43:20 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£58.09',
+ 'title': "The Lover's Dictionary",
+ 'url': 'the-lovers-dictionary_262/index.html'}
+{'price': '£58.09',
+ 'title': "The Lover's Dictionary",
+ 'url': 'the-lovers-dictionary_262/index.html'}
+2025-08-11 21:43:21 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£43.59',
+ 'title': 'The Lonely Ones',
+ 'url': 'the-lonely-ones_261/index.html'}
+{'price': '£43.59',
+ 'title': 'The Lonely Ones',
+ 'url': 'the-lonely-ones_261/index.html'}
+2025-08-11 21:43:23 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£33.92',
+ 'title': "The Lean Startup: How Today's Entrepreneurs Use Continuous "
+          'Innovation to Create Radically Successful Businesses',
+ 'url': 'the-lean-startup-how-todays-entrepreneurs-use-continuous-innovation-to-create-radically-successful-businesses_260/index.html'}
+{'price': '£33.92',
+ 'title': "The Lean Startup: How Today's Entrepreneurs Use Continuous "
+          'Innovation to Create Radically Successful Businesses',
+ 'url': 'the-lean-startup-how-todays-entrepreneurs-use-continuous-innovation-to-create-radically-successful-businesses_260/index.html'}
+2025-08-11 21:43:23 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£55.55',
+ 'title': 'The Last Painting of Sara de Vos',
+ 'url': 'the-last-painting-of-sara-de-vos_259/index.html'}
+{'price': '£55.55',
+ 'title': 'The Last Painting of Sara de Vos',
+ 'url': 'the-last-painting-of-sara-de-vos_259/index.html'}
+2025-08-11 21:43:23 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£29.64',
+ 'title': 'The Land of 10,000 Madonnas',
+ 'url': 'the-land-of-10000-madonnas_258/index.html'}
+{'price': '£29.64',
+ 'title': 'The Land of 10,000 Madonnas',
+ 'url': 'the-land-of-10000-madonnas_258/index.html'}
+2025-08-11 21:43:23 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£27.41',
+ 'title': 'The Infinities',
+ 'url': 'the-infinities_257/index.html'}
+{'price': '£27.41',
+ 'title': 'The Infinities',
+ 'url': 'the-infinities_257/index.html'}
+2025-08-11 21:43:23 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£52.51',
+ 'title': "The Husband's Secret",
+ 'url': 'the-husbands-secret_256/index.html'}
+{'price': '£52.51',
+ 'title': "The Husband's Secret",
+ 'url': 'the-husbands-secret_256/index.html'}
+2025-08-11 21:43:23 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£47.80',
+ 'title': "The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the "
+          'Galaxy #1)',
+ 'url': 'the-hitchhikers-guide-to-the-galaxy-hitchhikers-guide-to-the-galaxy-1_255/index.html'}
+{'price': '£47.80',
+ 'title': "The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the "
+          'Galaxy #1)',
+ 'url': 'the-hitchhikers-guide-to-the-galaxy-hitchhikers-guide-to-the-galaxy-1_255/index.html'}
+2025-08-11 21:43:23 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£14.54',
+ 'title': 'The Guns of August',
+ 'url': 'the-guns-of-august_254/index.html'}
+{'price': '£14.54',
+ 'title': 'The Guns of August',
+ 'url': 'the-guns-of-august_254/index.html'}
+2025-08-11 21:43:23 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£49.53',
+ 'title': 'The Guernsey Literary and Potato Peel Pie Society',
+ 'url': 'the-guernsey-literary-and-potato-peel-pie-society_253/index.html'}
+{'price': '£49.53',
+ 'title': 'The Guernsey Literary and Potato Peel Pie Society',
+ 'url': 'the-guernsey-literary-and-potato-peel-pie-society_253/index.html'}
+2025-08-11 21:43:23 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£43.58',
+ 'title': 'The Goldfinch',
+ 'url': 'the-goldfinch_252/index.html'}
+{'price': '£43.58',
+ 'title': 'The Goldfinch',
+ 'url': 'the-goldfinch_252/index.html'}
+2025-08-11 21:43:23 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£12.30',
+ 'title': 'The Giver (The Giver Quartet #1)',
+ 'url': 'the-giver-the-giver-quartet-1_251/index.html'}
+{'price': '£12.30',
+ 'title': 'The Giver (The Giver Quartet #1)',
+ 'url': 'the-giver-the-giver-quartet-1_251/index.html'}
+2025-08-11 21:43:23 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£49.47',
+ 'title': 'The Girl with All the Gifts',
+ 'url': 'the-girl-with-all-the-gifts_250/index.html'}
+{'price': '£49.47',
+ 'title': 'The Girl with All the Gifts',
+ 'url': 'the-girl-with-all-the-gifts_250/index.html'}
+2025-08-11 21:43:23 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£22.14',
+ 'title': 'The Girl Who Played with Fire (Millennium Trilogy #2)',
+ 'url': 'the-girl-who-played-with-fire-millennium-trilogy-2_249/index.html'}
+{'price': '£22.14',
+ 'title': 'The Girl Who Played with Fire (Millennium Trilogy #2)',
+ 'url': 'the-girl-who-played-with-fire-millennium-trilogy-2_249/index.html'}
+2025-08-11 21:43:23 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£57.48',
+ 'title': "The Girl Who Kicked the Hornet's Nest (Millennium Trilogy #3)",
+ 'url': 'the-girl-who-kicked-the-hornets-nest-millennium-trilogy-3_248/index.html'}
+{'price': '£57.48',
+ 'title': "The Girl Who Kicked the Hornet's Nest (Millennium Trilogy #3)",
+ 'url': 'the-girl-who-kicked-the-hornets-nest-millennium-trilogy-3_248/index.html'}
+2025-08-11 21:43:23 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£43.45', 'title': 'The Exiled', 'url': 'the-exiled_247/index.html'}
+{'price': '£43.45', 'title': 'The Exiled', 'url': 'the-exiled_247/index.html'}
+2025-08-11 21:43:23 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£22.13',
+ 'title': 'The End of Faith: Religion, Terror, and the Future of Reason',
+ 'url': 'the-end-of-faith-religion-terror-and-the-future-of-reason_246/index.html'}
+{'price': '£22.13',
+ 'title': 'The End of Faith: Religion, Terror, and the Future of Reason',
+ 'url': 'the-end-of-faith-religion-terror-and-the-future-of-reason_246/index.html'}
+2025-08-11 21:43:23 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£13.03',
+ 'title': 'The Elegant Universe: Superstrings, Hidden Dimensions, and the '
+          'Quest for the Ultimate Theory',
+ 'url': 'the-elegant-universe-superstrings-hidden-dimensions-and-the-quest-for-the-ultimate-theory_245/index.html'}
+{'price': '£13.03',
+ 'title': 'The Elegant Universe: Superstrings, Hidden Dimensions, and the '
+          'Quest for the Ultimate Theory',
+ 'url': 'the-elegant-universe-superstrings-hidden-dimensions-and-the-quest-for-the-ultimate-theory_245/index.html'}
+2025-08-11 21:43:23 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£57.35',
+ 'title': 'The Disappearing Spoon: And Other True Tales of Madness, Love, and '
+          'the History of the World from the Periodic Table of the Elements',
+ 'url': 'the-disappearing-spoon-and-other-true-tales-of-madness-love-and-the-history-of-the-world-from-the-periodic-table-of-the-elements_244/index.html'}
+{'price': '£57.35',
+ 'title': 'The Disappearing Spoon: And Other True Tales of Madness, Love, and '
+          'the History of the World from the Periodic Table of the Elements',
+ 'url': 'the-disappearing-spoon-and-other-true-tales-of-madness-love-and-the-history-of-the-world-from-the-periodic-table-of-the-elements_244/index.html'}
+2025-08-11 21:43:23 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£44.29',
+ 'title': 'The Devil Wears Prada (The Devil Wears Prada #1)',
+ 'url': 'the-devil-wears-prada-the-devil-wears-prada-1_243/index.html'}
+{'price': '£44.29',
+ 'title': 'The Devil Wears Prada (The Devil Wears Prada #1)',
+ 'url': 'the-devil-wears-prada-the-devil-wears-prada-1_243/index.html'}
+2025-08-11 21:43:23 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£52.25',
+ 'title': 'The Demon-Haunted World: Science as a Candle in the Dark',
+ 'url': 'the-demon-haunted-world-science-as-a-candle-in-the-dark_242/index.html'}
+{'price': '£52.25',
+ 'title': 'The Demon-Haunted World: Science as a Candle in the Dark',
+ 'url': 'the-demon-haunted-world-science-as-a-candle-in-the-dark_242/index.html'}
+2025-08-11 21:43:23 [scrapy.core.scraper] WARNING: Dropped: Duplicate item found: {'price': '£26.33',
+ 'title': 'The Day the Crayons Came Home (Crayons)',
+ 'url': 'the-day-the-crayons-came-home-crayons_241/index.html'}
+{'price': '£26.33',
+ 'title': 'The Day the Crayons Came Home (Crayons)',
+ 'url': 'the-day-the-crayons-came-home-crayons_241/index.html'}
+2025-08-11 22:09:52 [scrapy.core.downloader.handlers.http11] WARNING: Got data loss in https://books.toscrape.com/catalogue/page-39.html. If you want to process broken responses set the setting DOWNLOAD_FAIL_ON_DATALOSS = False -- This message won't be shown in further requests
+2025-08-12 18:58:53 [scrapy.downloadermiddlewares.retry] ERROR: Gave up retrying <GET https://books.toscrape.com/catalogue/page-39.html> (failed 4 times): An error occurred while connecting: 10065: A socket operation was attempted to an unreachable host..
+2025-08-12 18:58:53 [book] ERROR: <twisted.python.failure.Failure twisted.internet.error.ConnectError: An error occurred while connecting: 10065: A socket operation was attempted to an unreachable host..>
