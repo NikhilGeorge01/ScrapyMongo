@@ -92,3 +92,17 @@ ITEM_PIPELINES = {
 }
 LOG_LEVEL = "WARNING"
 LOG_FILE = "book_scraper.log"
+
+RETRY_TIMES = 3
+RETRY_HTTP_CODES = [500, 429]
+
+USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3"
+
+DOWNLOADER_MIDDLEWARES = {
+    "scrapy.downloadermiddlewares.useragent.UserAgentMiddleware": None,
+    "scrapy_user_agents.middlewares.RandomUserAgentMiddleware": 400,
+}
+
+DOWNLOAD_DELAY = 2
+
+ROBOTSTXT_OBEY = True
